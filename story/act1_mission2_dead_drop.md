@@ -1,236 +1,133 @@
 # ACT I — MISSION 2: "Dead Drop"
 
+**Revision 2 (2026-10-11).** Fixes: Mandu's knowledge bounded and sourced (REJECTED 7.3), Beneficiary unnamed in Act I (REJECTED 7.4), photograph chain made coherent (print #2 at the grave — different circle), Roman not present at a night cemetery, headstone 2009 (P-3.1), Jae-Ho's Act I facts limited to what evidence supports, daytime scene, Haru wounded (not immortal).
+
 ## Mission Overview
-**Placement:** Act I, Mission 2 of 3  
-**Dramatic Objective:** Mandu enters the investigation; Haru and Niko investigate the anonymous photograph; evidence points to a supposedly dead intermediary who actually survived.  
-**Why It Matters Now:** The mystery deepens. The "dead intermediary" is the first concrete lead — but he's not dead, which means someone is lying, and the conspiracy reaches further than Haru thought.  
-**Character Conflict:** Haru's distrust of institutions vs. Niko's guarded pragmatism; Mandu's performance vs. his growing loyalty; Roman's obliviousness vs. the danger approaching.  
-**Gameplay Variety:** Surveillance/infiltration at a cemetery/warehouse, conversation with Mandu, phone hacking/minigame, escape sequence.
+- **Placement:** Act I, Mission 2 of 4. **Dramatic objective:** the "dead man" opens the case — print #2 is found at Jae-Ho's grave, the light-coffin rumor surfaces, and the first hard name (Kostov) is pulled from Jae-Ho's apartment before the network burns the site.
+- **Why now:** the watchers baited the grave (C-04); the group must reach the evidence before the site is cleaned.
+- **Character conflict:** Haru's control versus a scene nobody staged; Niko's half-hope that Jae-Ho is really dead; Mandu's professional curiosity colliding with a grief he hasn't priced yet.
+- **Gameplay variety:** cemetery examination and dialogue, apartment evidence search, pursuit/escape (Haru wounded — left-ear tinnitus, permanent, used in M17).
 
-## Opening Cinematic (Narrative Description)
+## Opening cinematic
 
-**[SCENE: CEMETERY — BO HANN, NIGHT]**
+**[SCENE: BOHAN CHURCHYARD — MORNING, OVERCAST]**
 
-HARU and NIKO stand near a fresh grave. The headstone reads: **JAE-HO LEE — "Beloved Bodyguard — Died Protecting the Family, 2008."** Roman is nearby, looking at the grave with a mix of grief and confusion — he didn't know Jae-Ho well, but he respects the sacrifice.
+*(Revision note: daytime. Night cemeteries invite both technical and tonal problems; grief reads cleaner in flat morning light.)*
 
-**NIKO**  
-"This is where they buried him. Jae-Ho Lee. My contact. My friend."
+The headstone: **JAE-HO LEE — 2009 — "HE DIED PROTECTING THE FAMILY."**
 
-**HARU**  
-"The photograph — it was left at his grave. After everything these years. Someone's making sure I find it."
+NIKO stands a body's length back — colleague's distance. HARU comes up the path. Fresh flowers, not theirs. Under the stone vase lip, a corner of photograph paper catches the light.
 
-**[CAMERA: A subtle movement in the shadows near the far end of the cemetery. Someone is watching. Not hiding well — watching *Haru*.]**
+**[INSERT — PRINT #2: the same warehouse night as print #1 — but this print carries a grease-pencil circle around a DIFFERENT figure: a heavyset man near the crew's van. No typed strip. On the reverse, nothing.]**
 
-**[ACTION: Player regains control. Niko and Haru examine the grave area. Mandu appears — he "just happened to be in the neighborhood."]**
+**HARU** "Another copy. Same night. Different man circled."
 
-## Dialogue
+**NIKO** (not moving) "There was a driver by the van. Big man. I remember the shoulders, not the face."
 
-**NIKO**  
-"Jae-Ho. He was the one who arranged the Russian crew. Got them into the warehouse. He was... supposed to die with the rest of them."
+**HARU** "Someone's handing me a map with two markings. That's not grief. That's *instruction*."
 
-**HARU**  
-"He didn't die. The photograph... it was at his grave. Someone visited. Someone who wanted me to find it."
+**[CAMERA: slow push past the stone; in the far hedge line, a parked sedan with a man smoking, too still to be a mourner.]**
 
-**[SUBTITLE: MANDU (appearing from the shadows)]**  
-"Sorry, sorry — didn't mean to eavesdrop. Beautiful night for a grave visit, yes? Romantic, in a macabre sort of way."
+**[ACTION: player controls Haru. Objective: examine the grave, then follow Niko's lead.]**
 
-**NIKO**  
-"Mandu. I should have known you'd show up here. What are you doing here, con artist? Looking for a score? A body to bury?"
+## Mandu's entrance (bounded knowledge, sourced on-screen)
 
-**MANDU**  
-"Ouch. Harsh, Niko. I'm hurt. I'm here because I *heard* the returnee had landed. Kim Haru, yes? The boy who fell from the sky and landed in a pile of trouble. I thought perhaps we could... collaborate. I have skills. He has *issues*. Perfect match."
+MANDU (39, cheerful, dressed one degree too warm for the weather) approaches along the path — too confidently for a stranger.
 
-**HARU**  
-"I don't need a con artist, Mandu. I need answers. Who sent the photograph to my grave?"
+**MANDU** "You're standing on the only plot in this yard with a story. Forgive me — force of habit, I appraise stories. Moon Du-seok. Friends call me Mandu, enemies call me that as well, it saves time."
 
-**MANDU**  
-"Oho. Someone's feisty. Look, I'm a man of... flexible principles. I know things. Things I shouldn't know. But knowing things and *telling* things are two different propositions, yes? Especially when the people who *don't* want you to know are listening."
+**NIKO** (flat) "We don't know you."
 
-**[CAMERA: A car engine starts somewhere nearby. Not loud — deliberate. The sound echoes off the cemetery walls. The three of them freeze.]**
+**MANDU** "You don't. The sexton does — I bought him breakfast twice this year, and the second time he was sad enough to talk. Ask me about the coffin."
 
-**NIKO**  
-"They're here too. Whoever 'they' are."
+**HARU** "Talk."
 
-**MANDU**  
-"Imagine that. The world is smaller than we think, yes? Niko... Haru... perhaps our little cemetery visit has... audience."
+**MANDU** *(Knowledge tag: WITNESSED — player-visible sourcing.)* "Six men carried that casket like it insulted their mothers. Light as luggage. The sexton signed the burial card with shaking hands and a cashier's check in his pocket. Somebody paid for a funeral in a hurry and paid *extra* for nobody to count anything."
 
-**HARU**  
-"Who is listening? Who was Jae-Ho? The photograph — what does it show?"
+**NIKO** (to Haru) "He's a con artist. Everything he says is for sale or for leverage."
 
-**MANDU**  
-"Ah. Now we're getting to the good part. Jae-Ho... clever man. But he made the mistake of *knowing too much*. The Russians... they don't like loose ends. But someone — a *clever* someone — helped him *disappear* in plain sight. The grave? Empty. The body? Another man. Someone who *looked* like Jae-Ho. But who?"
+**MANDU** "Everything I say is *true* is my prices. Different column." (to Haru) "You're the son. The photographs circled this yard like gulls — I've watched two men visit this grave this month, and only one of them cried."
 
-**NIKO**  
-"Why go to that trouble? Why fake your own death just to be buried again?"
+**HARU** "Two men. Describe the other."
 
-**MANDU**  
-"Because the network doesn't *do* dead men who talk. They do *men who are presumed dead*. Men who can be... *reached*. Someone has been feeding Jae-Ho information. Small things. Clues. Enough to keep him alive, enough to keep him quiet. But not enough to *help* him. The Beneficiary... or his people... they have a way of making people *understand* their place. Jae-Ho found that out the hard way."
+**MANDU** *(Knowledge tag: WITNESSED, partial.)* "Older. Expensive coat, cheap shoes — a man dressed by an accountant. He left the flowers. I didn't follow. Following is a young man's sport." *(Mandu has not made the Accountant deduction; he is reporting a sighting.)*
 
-**HARU**  
-"The Beneficiary. That name... it came up later. In the family records. Someone who operates through intermediaries. Who believes everyone has a price."
+**NIKO** "And the sedan across the hedge?"
 
-**MANDU**  
-"Precisely. Somebody's been doing their homework. Good boy, Haru. But — and this is the important part — the Beneficiary *thinks* he's in control. But the Russians... the Russians *don't* care about prices. They care about *power*. And sometimes, power is cheaper than money. That's why they hit the warehouse. That's why they hit *you*. The Beneficiary may have *ordered* the operation, but the Russians *executed* it. And now they're cleaning up the people who know too much."
+**MANDU** (glances, unbothered) "That one's not here for the view."
 
-**[CAMERA: The cemetery gates creak open. A black sedan drives through — slowly, methodically. It circles the cemetery once, then speeds off.]**
+## Dialogue — the bounded middle
 
-**NIKO**  
-"They're checking the perimeter. They know we're here."
+**HARU** "Jae-Ho Lee booked the crew that killed my family. If he's alive, he's the first honest answer in ten years."
 
-**MANDU**  
-"Imagine that. The question is — do we *run*, or do we *find out why* they're checking?"
+**NIKO** "If he's alive, he ran *before* they sealed the site. That's not innocence, Haru. That's paperwork."
 
-**HARU**  
-"We find out. Niko — what did Jae-Ho know? What did he give you that you... concealed?"
+**MANDU** *(Knowledge tag: INFERRED.)* "Nobody fakes a funeral alone. You need a body that fits, paperwork that breathes, and a payer who wants you alive more than dead. That's three professionals. Jae-Ho had friends in tall, cold places."
 
-**NIKO**  
-"A fragment. A piece of evidence. A name. I... I couldn't risk it. Not then. Not with Kate... with Roman."
+**HARU** "You've thought about this."
 
-**HARU**  
-"You withheld evidence from me. My own protector. My own friend."
+**MANDU** *(first flicker of the patter thinning)* "I've thought about a lot of graves, friend. This one just happens to be the one I can afford." *(Seed: M9 brother reveal. No further detail in Act I.)*
 
-**NIKO**  
-"I protected *you*. There's a difference. Haru... some doors, once opened, don't close nicely. You'll find that out soon enough."
+**[BEAT: the sedan's door opens across the hedge. The smoker crushes his cigarette.]**
 
-**[MISSION OBJECTIVE ADDED: "Meet Jae-Ho Lee at the cemetery. Investigate the grave. Talk to Mandu about the intermediary."]**
+**NIKO** "Company. We're leaving through the far gate — or we're staying to ask them what they're selling."
 
-**[SCENE TRANSITION — CEMETERY GATE, NIGHT — CAR DRIVING AWAY]**
+**[OBJECTIVE ADDED: get to Jae-Ho's last known apartment before the watchers do. Waypoint set. Mandu tags along uninvited.]**
 
-## Gameplay Flow
+## Gameplay flow
+1. **Grave examination:** interact with headstone, flowers (florist's card — a Bohan shop, minor lead), the vase (print #2).
+2. **Mandu conversation:** three approach options (charm / press / dismiss). *Design note:* approaches change Mandu's *sourcing candor* (he volunteers more tags when charmed), not his facts — knowledge stays bounded.
+3. **Sedan event:** if the player approaches the sedan, it pulls away (no combat). If ignored, the walk to the apartment is calm.
+4. **Apartment search (Bohan walk-up, already-tossed but not emptied):** evidence objects, in order of find:
+   - **The courier note** — a strip of paper in a hollowed doorframe: *"KOSTOV — via the broker on Sweeney St. Paid to forget. Don't use the front."* *(C-06. Jae-Ho kept his booking chain.)*
+   - **A seized camera** — film door snapped, empty spool. *(The site was already searched; the accountants got here first. Tells the player the enemy is also a paperwork animal.)*
+   - **A school photo of a boy** — on the back: *"D. Study well."* Unexplained. *(Mandu's brother seed, planted silently. Payoff M9–M10.)*
+5. **Escape:** watchers arrive at the street ends. **Fight-or-flee:** combat is survivable but the escape is mandatory; during the sprint through the lots, a stray round scars Haru's left ear — **he bleeds, he staggers, Niko hauls him a fence.** *(Not-immortal beat 1 of Act I. Permanent tinnitus, M17 callback.)*
+6. **End scene — depot back office, night:** Niko patches the ear. Roman reads the courier note.
 
-1. **Player controls Haru** examining Jae-Ho's grave at the cemetery  
-2. **Optional:** Investigate the grave area for clues (personal effects, flowers left recently, disturbed soil)  
-3. **Mandu appears** — conversation options below  
-4. **Player can choose dialogue approaches** with Mandu (charming, aggressive, dismissive) — each reveals different information  
-5. **Niko's dialogue about the concealed evidence** — creates friction with Haru  
-6. **A black sedan circles the cemetery** — threat escalation; player must make a choice:  
-   - **Option A:** Leave the cemetery quickly (stealth/flight)  
-   - **Option B:** Follow the sedan (pursuit mission segment)  
-   - **Option C:** Ignore it and talk to Mandu (information gain, but risk)  
-7. **If following:** Brief pursuit through Bohan streets, sedan loses them at a checkpoint  
-8. **If leaving or ignoring:** Mandu gives Haru a lead — Jae-Ho's supposed "stash" or hidden compartment in his old apartment  
-9. **Player receives new objective** — "Investigate Jae-Ho's old apartment or continue the cemetery investigation"
-
-## Character Beats
-
-- **Haru:** Distrustful of institutions; anger at Niko withholding evidence is beginning to surface; driven by the photograph and the "dead" intermediary  
-- **Niko:** Guarded, practical; emotional conflict about the concealed fragment — he knows he must eventually explain, but not yet; guilt about Kate and Roman surface  
-- **Mandu:** Performing for the situation, but perceptive — he senses the tension between Haru and Niko; his own loyalty is tested; he's glad to be "useful" but his performance masks genuine concern  
-- **Roman:** At the cemetery, confused but respectful; doesn't understand the depth of the conspiracy yet
-
-## Escalation & Complication
-
-- **The "dead" intermediary is actually alive** — Jae-HO faked his death with help from someone inside the network  
-- **The photograph at the grave** proves someone is still active, still watching, still manipulating the board  
-- **The Beneficiary is connected to Jae-Ho's faked death** — this is the first concrete link between the " Beneficiary" name and the massacre  
-- **The Russians are still watching** — the sedan circling the cemetery confirms they're monitoring the survivors  
-- **Niko's concealed evidence** creates immediate conflict with Haru — "You withheld evidence from me" is a legitimate accusation  
-- **Mandu's information** about the Beneficiary's philosophy ("everyone has a price") plants a seed that will grow over the campaign  
-- **The choice the player makes** — follow the sedan, leave, or ignore — sets up different consequences for Mission 3
-
-## Mission Ending
-
-**[SCENE: JAE-HO'S OLD APARTMENT — BO HANN, NIGHT]**
-
-The three of them stand outside a modest apartment building. Mandu has led them here. The door is slightly ajar. Inside, it looks like someone lived there recently, but they've disappeared — or been taken.
-
-**MANDU**  
-"Jae-Ho's place. Looks like he wasn't alone. Someone was here. After him. Before him. During him. The question is — is anyone still here?"
-
-**HARU**  
-"Search the apartment. Niko — you're with me. Mandu, keep watch."
-
-**NIKO**  
-"Carefully. This could be a trap."
-
-**[PLAYER CONTROL: Search the apartment for clues. Options include:**  
-- **Jae-Ho's journal** — fragmented entries about the network, the Beneficiary, the "final transaction"  
-- **A hidden compartment** — containing a photograph of the warehouse massacre, with a name written on the back: *VLADIMIR KOSTOV*  
-- **Financial records** — showing payments from a shell company to "security consultants" (Russian criminals)  
-- **A recording** — Jae-Ho's voice, explaining he was forced to fake his death, that the network goes deeper than he knew]
-
-**NIKO (CONT'D, reading a fragment)**  
-"'...the network is not just weapons. It is... disposal. Cleanup. The Russians are the visible hand, but someone else moves the strings. I have the names. But if I use them... if I go to the police... they will not go after me. They will go after the people I love. Roman. Kate's memory. You, Haru.'"
-
-**HARU**  
-"He knew. Jae-Ho knew the network was bigger than weapons. And he chose to protect the people he cared about instead of exposing the truth. The same choice Niko made. The same choice we're all making, whether we want to or not."
-
-**[CAMERA: A knock at the door. Three sharp raps. Then another three. A code.]**
-
-**MANDU**  
-"That's... not good. That's Jae-Ho's contact. Or his replacement. Someone's moving fast."
-
-**NIKO**  
-"We need to go. Now. Before they realize we were here."
-
-**[MISSION STATUS: "Dead Drop Complete"]**
-
-**[OBJECTIVE MARKER: TALK TO NIKO AND MANDU. DECIDE HOW TO RESPOND TO THE KNOCK.]**
-
-## Technical Implementation Notes
-
-- **Cemetery exterior:** Existing GTA IV cemetery asset (use an existing one in Bohan or Algonkin)  
-- **Jae-Ho's grave:** Scripted interactable prop with optional journal/items inside the mission sequence  
-- **Apartment interior:** Use an existing GTA IV apartment model (multi-apt or single) with scripted items/collectibles  
-- **Black sedan:** Scripted traffic AI that circles the cemetery; if followed, triggers a brief pursuit sequence using existing AI drivers  
-- **Mandu's appearance:** Scripted NPC companion who "just happened to be in the neighborhood" — use existing pedestrian/character model (Luis Lopez basis, but with Mandu's dialogue)  
-- **Journal/recording items:** Use GTA IV text/recording assets already in the game  
-- **Hidden compartment:** Scripted prop discovery (existing game mechanic for "hidden packages" or mission items)  
-- **Knock at door:** Simple scripted event — three knocks, pause, three more — then mission progression  
-- **LuaModLoader compatibility:** Uses existing native functions for text, objectives, peds, and simple gameplay mechanics  
-- **No custom weapons or vehicles required** — use existing GTA IV assets
-
-## Continuity Restrictions
-
-- **Roman survives** — he is at the cemetery but does not participate in the investigation beyond this mission  
-- **Kate died** — referenced in Niko's journal fragment about protecting the people he loves  
-- **Niko's concealed evidence** is explored through Jae-Ho's journal — Niko's fragment is paralleled by Jae-Ho's choice  
-- **Haru's visual basis:** Luis Lopez character model, but with Mandu's dialogue and Haru's controlled demeanor  
-- **Setting:** Post-GTA IV Liberty City, Bohan district  
-- **Revenge ending continuity:** Roman alive, Kate dead (referenced but not present)  
-- **Jae-Ho Lee:** Previously mentioned as Niko's contact who "died" in the massacre; this mission reveals he faked his death
-
-## Spoiler Check (Player-Facing)
-
-**Reveals in this mission:**  
-- Jae-Ho Lee faked his death (he's actually alive)  
-- The photograph was left at his grave intentionally  
-- Someone helped him fake his death — the network has inside help  
-- The Beneficiary's philosophy: "everyone has a price"  
-- The Russians are still monitoring the survivors  
-- Niko and Jae-Ho made a similar choice: protect loved ones vs. expose the truth  
-- A name: Vladimir Kostov (found on a photograph in Jae-Ho's apartment)  
-- Mandu is involved in the investigation  
-- The apartment is being watched (knock at the door)
-
-**Does NOT reveal:**  
-- Vladimir Kostov's exact role (intermediary? enforcer? something else?)  
-- The full nature of Operation Black Ledger  
-- The father's involvement or compromise  
-- Beneficiary's true identity  
-- Why the evidence resurfaces now (beyond "someone is watching")  
-- How Haru and sister survived the massacre  
-- Niko's exact concealed fragment (parallel drawn, but specifics hidden)  
-
-## Spoiler Check (Full Chronology — Writer Reference)
-
-**This mission plants:**  
-- Jae-Ho is alive and faked his death (key causal link: someone in the network helped him)  
-- The photograph at the grave is the first deliberate clue placement  
-- The Beneficiary's philosophy ("everyone has a price") is introduced through Mandu  
-- Vladimir Kostov is introduced as a name connected to the massacre  
-- The network helps its own people disappear (explains how some intermediaries "die" but their transactions continue)  
-- Niko and Jae-Ho made parallel choices about protecting loved ones vs. exposing truth  
-- The Russians are actively monitoring survivors  
-- Mandu's perception and loyalty are being tested  
-
-**Does NOT reveal:**  
-- Who specifically helped Jae-Ho fake his death (Niko? The father? Someone else?)  
-- What Vladimir Kostov's exact relationship is to the massacre or the network  
-- The father's final transaction or compromise  
-- How the anonymous photograph resurfaced years later  
-- The full scope of the Beneficiary's network  
-- Mandu's personal stake in the Korean diaspora/network  
-- The sister's involvement (not yet introduced)  
-
----
+## Ending scene
+
+**ROMAN** "Kostov. Russian name. I know a man who knows a man—"
+
+**NIKO** "You know a man who owes a taxi debt. That's not a knowing, that's an *account*." (to Haru) "Kostov's crew was military. Someone paid military rates for a warehouse. You want 'who signed' — you follow the payment, not the shoulders."
+
+**MANDU** "Which is why you keep the con artist, Mr. Bellic. Payments have *habits*."
+
+**HARU** (quiet, ringing ear, level voice) "Then we follow the habit."
+
+**[MISSION COMPLETE: "Dead Drop"]**
+
+## Escalation & complication
+- Two prints, two circles: the player now *knows* someone else has prints and is curating them (C-04 pays in M4).
+- The light coffin reframes Jae-Ho: victim, ghost, or defendant — the act keeps all three live (his truth is Act III).
+- Kostov is a name, not a villain: Act I gives the player a thread, not a target.
+- The apartment was already searched: the enemy is methodical, and it got here first — the group is reacting, behind, and priced.
+
+## Failure / retry handling
+- Escape fails → respawn at street corner, watchers reset, ear scene unchanged (wound is scripted, not health-gated). Evidence found persists.
+
+## Technical implementation notes
+- **Locations:** Bohan churchyard (existing map cemetery area — verify exact plot placement locally), Bohan walk-up interior (existing), depot back office (existing).
+- **Print #2:** texture variant of print #1 with grease-pencil circle overlay.
+- **Evidence objects:** interactable props with fullscreen text displays; no inventory system required.
+- **Watchers:** scripted ambient AI with arrive/search/pull-away states; no dynamic pursuit outside the escape lane.
+- **Wound:** scripted blood decal + limp anim for one scene; no stat change.
+- **Mandu model:** existing NPC base model distinct from Luis Lopez (Haru's basis) — cast locally from vanilla ped pool; his identity is voice + wardrobe, not a unique mesh.
+- **Runtime:** loader-layer scripting; UNVERIFIED on 1.2.0.59 pending PoC (see docs/).
+
+## Continuity restrictions (hard)
+- **No "Beneficiary," no "Accountant," no "ledger" spoken by anyone.** Mandu's "dressed by an accountant" is a wardrobe joke — audit note: permitted; it is an observation, not the title.
+- **Mandu knowledge tags on-screen** (WITNESSED/INFERRED/BLUFF). He has no PLANTED facts yet (first arrives Act III).
+- **Niko** does not confirm or deny Jae-Ho's survival; he has not seen the grave evidence before this scene.
+- **Headstone: 2009** (P-3.1). Epitaph is paperwork, not family belief.
+- **Kate:** not referenced this mission (rests the grief thread; Roman's family not on-screen).
+- **Roman** appears only in the ending scene (daytime cemetery cut).
+
+## Spoiler check (player-facing)
+**Reveals:** a second print exists with a different circled figure; Jae-Ho's coffin was light; Kostov is a name in the chain; the apartment was professionally searched; the watchers are watching the grave.
+**Does NOT reveal:** that Jae-Ho lives (strongly implied, unconfirmed); who made the prints; who circled what and why; the Beneficiary/Accountant/ledger; the boy photo's meaning; why the evidence resurfaced.
+
+## Spoiler check (writer reference)
+- Plants: C-04 (print #2 + two circles), C-05 (light coffin), C-06 (Kostov note), Mandu's brother seed (silent), the searched-apartment tell (comptroller's method — pays M11).
+- The "accountant" wardrobe line is deliberate bait for perceptive players (clue-schedule audit note: the Accountant is *deducible* from M2 onward through style, never by name).
+- Niko's "paperwork" line is his 2009 inference speaking — he does not know the swap was staged *by the client's side* (chronology B6).

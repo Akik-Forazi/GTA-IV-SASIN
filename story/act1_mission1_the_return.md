@@ -1,177 +1,125 @@
 # ACT I — MISSION 1: "The Return"
 
+**Revision 2 (2026-10-11).** Fixes: coherent photograph chain (print #1 in hand; docks text declined), Francis International Airport (not "BO Hann"), Roman's canon family (Mallorie, daughter), Kate past-tense guard, Niko knowledge bounds, causal logic (no premature conspiracy names).
+
 ## Mission Overview
-**Placement:** Act I, Mission 1 of 3  
-**Dramatic Objective:** Haru returns to Liberty City via anonymous photograph; reconnects with Niko and Roman; establishes the monitoring threat that will drive the campaign.  
-**Why It Matters Now:** This is the inciting incident — Haru's return kicks off the entire conspiracy. The photograph is the first clue; the monitoring tells Haru he's not alone in his pursuit.  
-**Character Conflict:** Haru's controlled demeanor vs. the visceral emotion of returning home; Niko's reluctant re-entry guarded by protective guilt; Roman's innocent enthusiasm contrasting with undercurrent of danger.  
-**Gameplay Variety:** Walking navigation, optional taxi ride with Roman, text message reception, safehouse arrival.
+- **Placement:** Act I, Mission 1 of 4. **Dramatic objective:** the inciting incident — Haru returns carrying print #1, declines the first lure, and re-bonds with Niko and Roman while the watchers log his arrival.
+- **Why now:** the photograph forced the return (chronology C3); the watchers' presence tells Haru (and the player) that his arrival is already priced in.
+- **Character conflict:** Haru's controlled demeanor against the visceral fact of being home; Niko's guarded relief and ten years of unspoken knowledge; Roman's warmth pulling the scene toward family while danger circles it.
+- **Gameplay variety:** walking navigation, optional Roman taxi ride, phone scenes, safehouse arrival. No combat — a tone-setter.
 
-## Opening Cinematic (Narrative Description)
+## Opening cinematic
 
-**[SCENE: INTERNATIONAL ARRIVALS — BO HANN, LIBERTY CITY — NIGHT]**
+**[SCENE: FRANCIS INTERNATIONAL AIRPORT — INTERNATIONAL ARRIVALS — EVENING, LIGHT RAIN]**
 
-Rain falls on the tarmac. HARU (30s, composed, wearing a suit that feels slightly out of place in the rain) steps off the private jet, carrying only a briefcase and a duffel bag. He pauses, looking around — Liberty City after ten years away. His phone buzzes. A single anonymous text appears on screen:
+HARU (33, composed, one suitcase, one worn leather document case) comes down the arrivals corridor. He is not sightseeing; he is scanning. His phone buzzes.
 
-> **THEY'RE WATCHING. MEET ME AT THE DOCKS. —A.**
+> **SMS — UNKNOWN:** THEY'RE WATCHING. MEET ME AT THE DOCKS. —A.
 
-Haru checks the message. His eyes shift left — a parked black sedan a few spaces down. A figure inside watches him. The window rolls down slightly. Not enough to see inside. Just enough to confirm someone's there.
+Haru reads it twice. His eyes move to a parked sedan past the taxi rank: engine off, wipers mid-cycle, a silhouette inside. Not hiding. *Logging.*
 
-**[CAMERA: Tracking shot follows Haru as he exits the terminal, passes through customs (minimal — he has no luggage), and steps into the rainy Liberty City night. The camera lingers on his face as he checks the message, then looks around — the observing car is still there. Someone is definitely watching him.]
+**[CAMERA: tracking shot through arrivals; hold on Haru's face as he pockets the phone without replying; slow push-in on the sedan as the wiper completes one arc — the silhouette does not move.]**
 
-**[ACTION: Player gains control of Haru. He can walk to a waiting taxi or call one. Roman's taxi company is visible at the curb.]
+**[INSERT — HARU'S DOCUMENT CASE, opened on his knee earlier at the gate: the photograph. Grainy, ten years old, a warehouse night. A suited figure at the door. A typed strip beneath it: "IT WAS A CONTRACT. ASK NIKO BELLIC WHO STOOD AT THE DOCKS... " — final words cut by the fold. The player has seen it; no name is given.]**
+
+*(Writer note: the typed strip is the player's only text on print #1. It plants C-01 without naming anyone.)*
+
+**[ACTION: player gains control at the taxi rank. Objective: reach the safehouse in Bohan. Waypoint set.]**
 
 ## Dialogue
 
-**HARU (to himself, quiet):**  
-"Liberty City. Home. After ten years... it feels like a different country."
+**HARU** (quiet, to himself): "Ten years. The rain's the same. Everything else is a different country."
 
-**[SUBTITLE: HARU]**
+**[Player may hail a cab. Roman's number is the only contact marked FAMILY.]**
 
-**HARU (CONTINUED)**  
-(dialing a number)  
-"Niko? It's me. I'm... I'm back."
+**HARU** (phone to ear, watching the sedan's mirror in the terminal glass): "Niko. It's Haru."
 
-**NIKO (V.O.)**  
-"Haru. You sound... different. Why are you calling?"
+**NIKO (V.O.)** — a silence first, long enough to be an answer. "…You're supposed to be in Rotterdam."
 
-**HARU**  
-"I got a photograph. Anonymous. Of the warehouse. Where it happened. I didn't know where else to go. I needed someone who was there. Someone who wouldn't lie to me."
+**HARU** "I was. Then I got a photograph in the mail. No note, no name — just the warehouse. The night. Niko, I need to know who stood at the door."
 
-**NIKO (V.O.)**  
-"Warehouse. You mean the—"
+**NIKO (V.O.)** "Some doors, once opened, don't close nicely. I told your father that. I'll tell you."
 
-**HARU**  
-"The one your friend's bodyguard supposedly died in. Yes. Niko, I need to know what really happened. Who had a reason to kill my family?"
+**HARU** "You told him. So you were there. Meet me."
 
-**NIKO (V.O.)**  
-"...I haven't thought about that night in a long time. Why now?"
+**NIKO (V.O.)** "…Roman's depot first. He'll have driven everyone crazy pacing. Then we talk. And Haru — come alone, leave the photograph locked up. Don't show it to anyone."
 
-**HARU**  
-"Because whoever had the photograph knew I was coming. Someone's been watching me for months. I could feel it at the airport. They're still here, Niko. In this city."
+**HARU** "Why?"
 
-**[CAMERA: Quick cut as Haru ends the call, looks over his shoulder — the taxi at the curb has been waiting. The driver glances in the rearview mirror a moment too long.]
+**NIKO (V.O.)** "Because a photograph like that is a lit match. And Liberty City is dry."
 
-**NIKO (V.O.) (CONT'D)**  
-"Roman's still here. He'd be glad to see you. But Kate... be careful what you wish for."
+**[CALL ENDS. SUBTLE BEAT: the sedan's headlights come on as Haru steps to the curb — then go off again. The player has seen it; Haru half-sees it.]**
 
-**HARU**  
-"Roman knows what happened. He deserves to know I'm back. Please, Niko. Meet me. At the safehouse. Please."
+## Gameplay flow
+1. **Taxi or walk** to Bohan (waypoint). If the player takes a random cab, ambient radio and skyline establish the city; if they call Roman's number, see 2.
+2. **Optional — Roman pickup:** ROMAN arrives personally in a depot cab, delighted, talkative. He mentions Mallorie picked up their daughter from her cousin's; he mentions — without alarm — a new "corporate account" booking depot cabs at odd hours ("more money than sense, this client — he pays in cashiers' checks!"). *(Seed C-15/M8. No suspicion.)*
+3. **Mid-ride event:** the sedan from the airport passes once, same lane, three cars back. Roman doesn't notice. The radio weather reports rain through the week. *(The player may look — the car is scripted, not interactive; no wanted level.)*
+4. **Arrival — Bohan safehouse (existing apartment interior):** the evening scene below.
 
-**NIKO**  
-"I'll be there. But Haru... some doors, once opened, don't close nicely."
+## Safehouse scene (mission ending)
 
-**[MISSION OBJECTIVE ADDED: "Meet Niko at the safehouse in Bohan."]**
+**[SCENE: SAFEHOUSE — BOHAN — NIGHT]**
 
-**[SCENE TRANSITION — RAINY STREETS OF BO HANN, NIGHT]**
+Roman talks; Niko stands at the window with his back to the room, which is how Niko says things. On the table, a pot of Roman's coffee, which is a crime in itself.
 
-## Gameplay Flow
+**ROMAN** "—so the depot is *fine*, better than fine, we have a corporate account now, very fancy people, they pay on time which in this city is practically a marriage proposal—"
 
-1. **Player controls Haru** walking from arrivals to taxi stand  
-2. **Optional:** Call Roman's taxi (FACTION TAXI) or walk through the streets  
-3. **If Roman's taxi:** Roman greets Haru enthusiastically, talks about Niko, mentions Kate's memory with bittersweet tone. He's oblivious to the threat monitoring Haru.  
-4. **If walking:** Haru navigates streets, may encounter normal pedestrian traffic for atmosphere  
-5. **Player receives text message from Niko** — "Safehouse, Bohan. —N."  
-6. **Haru proceeds to safehouse** (waypoint appears on minimap)
+**NIKO** (not turning) "Roman."
 
-## Character Beats
+**ROMAN** "Right. Serious faces. Serious faces."
 
-- **Haru:** Economical with words, controlled demeanor; surprise at returning home; underlying anxiety about being watched (not yet articulated even to himself)  
-- **Roman:** Warm, talkative; misses Niko; mentions Kate's memory with bittersweet tone; oblivious to the threat monitoring Haru — he just wants his brother back  
-- **Niko:** Guarded, practical; reluctant but obligated; the concealed evidence hangs between him and Haru like an unspoken tension — he's protecting Haru, but Haru doesn't know why yet  
-- **Mandu:** Not yet introduced — will enter in Mission 2
+**HARU** (sets the document case on the table, doesn't open it) "I came back because of what happened in 2009. Not to mourn. To find out who bought it."
 
-## Escalation & Complication
+**NIKO** (turning now) "'Bought.'"
 
-- **Haru arrives and immediately senses he's being watched** (camera lingers on the observing car; the driver's lingering glance)  
-- **The anonymous photograph creates an immediate mystery** — who sent it and why? What do they want?  
-- **Niko's hesitant reunion creates emotional friction** — Haru feels Niko withheld information he needed; Niko feels protective guilt about Kate's death and what he concealed  
-- **Roman's innocent enthusiasm contrasts with the undercurrent of danger** — he's talking about how much he missed Niko, not understanding the storm coming  
-- **Text from Niko provides a goal but also a warning** — "some doors don't close nicely" plants the seed that Niko knows something he's not saying
+**HARU** "Crews like that don't volunteer. Someone contracted the warehouse. I intend to find who signed."
 
-## Mission Ending
+A silence. Roman looks between them like a man at the wrong dinner table.
 
-**[SCENE: SAFEHOUSE INTERIOR — BO HANN, NIGHT]**
+**NIKO** (carefully) "You say 'who.' Not 'why.' That's a dangerous word order, Haru."
 
-HARU enters the modest safehouse. NIKO is already there, leaning against the window, looking out at the rainy city. ROMAN is there, talking animatedly about something trivial — maybe how much he missed Niko, maybe something about the taxi business.
+**HARU** "It's the only one I trust. 'Why' can be lied to. 'Who' has to be *paid*."
 
-**ROMAN**  
-"Haru! My brother! You are back! We have so much to discuss! Kate would have wanted you to return, yes? To see how Roman is doing!"
+**NIKO** (beat; almost a smile, gone at once) "You sound like him. Your father. He used to say the ledger never flatters."
 
-**HARU (nodding briefly)**  
-"Roman. Niko. I'm back. And I have questions. But first — we need to talk about why I really came back. The photograph... it wasn't random, was it? Someone sent it for a reason. Someone who's been watching me for months."
+**ROMAN** "Okay — good news: nobody is signing anything tonight, because my sister-in-law says I stress-eat when you two do this, and *I* say we eat anyway. Haru — you're home. Whatever this is… we do it with full stomachs, yes?"
 
-**NIKO**  
-"Everyone has their reasons, Haru. Some are... harder to face than others."
+**HARU** (to Niko, quietly) "I didn't answer a message tonight. Someone offered me a meeting I didn't take. When they offer again — I'd like you there."
 
-**ROMAN**  
-"Is everything okay? You look like you've seen a ghost. Or perhaps — is this about the business? The family empire? I tried to protect you both, you know. I—"
+**NIKO** (a long look; the guilt the player can't read yet) "…You'll have me."
 
-**[CAMERA: Quick cut to Haru's face — Roman's words hit close. Haru doesn't respond. Niko places a hand on Haru's arm — a silent warning.]**
+**[MISSION COMPLETE: "The Return"]**
 
-**[MISSION STATUS: "The Return Complete"]**
+## Escalation & complication
+- The photograph forces the return; the declined docks text means the sender must adapt (M4's "I'll bring the water to you").
+- The watcher sedan is *logging*, not hunting — patient surveillance, the campaign's first read of the enemy's method.
+- Niko's dialogue performs knowledge without confessing it ("You told him. So you were there") — bounded by his profile (witnessed ≠ concluded; he volunteers nothing).
+- Roman's corporate account seed pays off in M8; his warmth is the scene's gravity, not comic relief.
 
-**[OBJECTIVE MARKER: TALK TO NIKO AND ROMAN AT THE SAFEHOUSE]**
+## Failure / retry handling
+- No fail states. If the player ignores waypoints for 10 minutes, Roman calls with directions (in-character, no punishment).
 
-## Technical Implementation Notes
+## Technical implementation notes
+- **Locations:** Francis International Airport arrivals exterior (existing), Bohan street network, existing Bohan apartment interior as safehouse. All vanilla assets.
+- **Sedan:** scripted ambient vehicle with parked + drive-past states; no AI pursuit.
+- **Phone:** native text/call presentation; "UNKNOWN" sender label.
+- **Photograph:** 2D texture overlay on the case insert; also visible full-screen during the insert shot.
+- **Rain:** weather script state for the act; no physics impact.
+- **Runtime:** all staging via loader-layer scripting (LuaModLoader candidate; see `docs/technical-architecture.md`). Cutscene camera paths use the runtime's cinematic primitives **once verified on 1.2.0.59 (UNVERIFIED — PoC, docs/poc-cinematic-plan.md)**.
+- **No custom vehicles/weapons.**
 
-- **Safehouse:** Existing GTA IV safehouse interior (use multi-apt or safehouse property already in the game)  
-- **Niko's presence:** Scripted companion NPC for this mission only  
-- **Roman's presence:** Scripted companion; his taxi company business is canon-compliant (Roman's Taxi)  
-- **Rain effect:** Optional atmospheric layer; does not affect gameplay but sets tone  
-- **Phone model:** Existing GTA IV "cellphone" asset for text messages  
-- **No custom vehicles or weapons required** — use existing GTA IV assets  
-- **LuaModLoader compatibility:** Uses existing native functions for text, objectives, peds, and cutscene control  
-- **Cutscene triggers:** Standard GTA IV mission triggers (player near marker, etc.)
+## Continuity restrictions (hard)
+- **Kate:** past tense only; she is referenced via Niko's careful silences, never named casually. No Deal-ending implications anywhere.
+- **Roman:** alive; married to Mallorie; young daughter exists (named Kate, P-1.18); he is warm and observant, never a plot hostage in this mission.
+- **Niko:** recognizes the warehouse from the photograph; does NOT mention any phone, any name, any "beneficiary." His warnings are proverbial, not factual.
+- **Setting:** spring 2019; massacre was March 2009 (P-3.1). Haru was abroad ten years; the "Rotterdam" line matches his logistics cover.
+- **No character uses the words "Beneficiary," "Accountant," or "ledger" in this mission.**
 
-## Continuity Restrictions
+## Spoiler check (player-facing)
+**Reveals:** Haru returned; the photograph exists and shows a suited figure; Niko was present in 2009; watchers are logging the return; a "—A." lure exists and was declined; Roman has a new corporate account.
+**Does NOT reveal:** who "—A." is; the sender of the photograph; the Beneficiary; the Accountant; the ledger/trust; Jae-Ho's survival; Niko's burner; why the evidence resurfaces.
 
-- **Roman survives** (Revenge ending) — he is present and alive in this mission  
-- **Kate died** — referenced in Niko's dialogue, mourned but not physically present  
-- **Niko's concealed evidence** is alluded to but not revealed yet ("some doors don't close nicely")  
-- **Haru's visual basis:** Luis Lopez character model (per user decision), but Haru has his own dialogue and personality distinct from Luis  
-- **Setting:** Post-GTA IV Liberty City, Bohan district safehouse  
-- **No contradictions** with established GTA IV timeline  
-- **Revenge ending continuity preserved:** Roman alive, Kate dead
-
-## Spoiler Check (Player-Facing)
-
-**Reveals in this mission:**  
-- Haru arrived in Liberty City  
-- He has a safehouse  
-- He found an anonymous photograph  
-- He contacted Niko  
-- Roman is waiting at the safehouse  
-- Someone is monitoring Haru's return
-
-**Does NOT reveal:**  
-- Who sent the photograph  
-- Who is monitoring Haru  
-- The intermediary's identity  
-- The nature of Operation Black Ledger  
-- The father's involvement  
-- Beneficiary's identity  
-- Why the evidence resurfaces now  
-- Mandu's role (Mission 2+)  
-- Niko's concealed fragment (hinted at, not described)
-
-## Spoiler Check (Full Chronology — Writer Reference)
-
-**This mission plants:**  
-- Anonymous photograph (will be investigated throughout Act I)  
-- Niko's reluctant re-entry and guarded demeanor  
-- Roman's presence and innocent enthusiasm  
-- Sense of being watched (payoff later)  
-- Haru's motive for returning  
-
-**Does NOT reveal:**  
-- Who the intermediary was  
-- What the network was (Operation Black Ledger)  
-- Father's involvement or compromise  
-- Beneficiary's identity  
-- Why the evidence resurfaces now  
-- Mandu's role or personal stakes  
-- Niko's exact concealed fragment (only hinted)  
-- How Haru and sister survived the massacre  
-
----
+## Spoiler check (writer reference)
+- Plants: C-01 (print #1), C-02 (docks text), C-03 (watcher sedan), C-15 seed (Roman's account).
+- The typed strip's cut-off sentence is deliberate: the full line (M11's burner echo "ACCOUNT CLEARS FRIDAY. THEN THE BROOM.") must never be guessable from here.
+- Niko's "he used to say the ledger never flatters" is the campaign's only ledger mention before M4 — a private memory, not information transfer. Audit note: allowed because Niko heard the phrase from Tae-joon (chronology A2); he is not revealing the ledger's existence.
