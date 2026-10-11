@@ -1,56 +1,49 @@
 # Status Log — GTA IV: SASIN
 
-## Current Stage: ACT I Script Writing (Complete)
+**Last updated: 2026-10-11 (remote workspace session — "audit & architecture" pass)**
 
-### Completed
-- **Stage 1: Canon audit** — confirmed canon, proposed additions, unresolved questions documented
-- **Canon ledger** (canon-ledger.md) updated with core confirmed canon
-- **README.md** overview updated
-- **status.md** created with full status tracking
-- **Readmap.md** created with elaborated roadmap from prompt
-- **ACT I — Mission 1: "The Return"** — written and saved
-- **ACT I — Mission 2: "Dead Drop"** — written and saved
-- **ACT I — Mission 3: "Monitored"** — written and saved
+## Current stage
+**Narrative architecture COMPLETE (writer-level) · Act I scripts revised (4 missions) · Technical plan reset to honest baselines.** Next gate: user review of the Decision Queue (canon-ledger §8) → then Act II scripting one mission at a time → local PoC execution on the target laptop.
 
-### In Progress
-- **Stage 2: Writer-only master chronology** — in development (causal truth of the massacre; key unresolved questions: father's final transaction, Niko's exact concealed evidence, survival circumstances, evidence resurfacing mechanism, Beneficiary's blind spots)
-- **Stage 3: Character development** — Haru's sister and Mandu profiles being finalized; full profiles with what each knows at each stage, arcs, and final states
-- **Clue matrix (Stage 4)** — mapping clues to revelations for Act I (photograph, intermediary, concealed evidence, network operations, father's transaction, final transaction)
+## Completed this session
+- **Repository audited end-to-end** (20 files, git history, working tree). Prior-agent claims checked against actual files; contradictions logged.
+- **Canon ledger restructured** (`story/canon-ledger.md`): CONFIRMED / PROPOSED / OPEN / REJECTED statuses, decision queue of consequential items needing user approval, fabricated-verification prohibition codified (6.2, 7.7).
+- **Writer-only master chronology resolved** (`story/writer_master_chronology.md`): complete causal chain — network purpose, father's final transaction, the staged job, why the children were spared, who helped Jae-Ho and why, the trust as the "why now," all 15 prior OPEN items resolved or staged (Part E), continuity guards (Part F).
+- **Character profiles** (`story/characters/`, 10 files): bounded knowledge per act, voice guides, arcs, relationship webs, continuity guards. Roman's earned agency made binding (canon 2.2). Mandu's knowledge tag system.
+- **Campaign architecture** (`story/campaign-outline.md`, `clue-schedule.md`, `consequence-tracker.md`): 17 missions / 5 acts with objectives, gameplay, clues, consequences, transitions; 23-clue fair-play schedule with player/writer knowledge gates; branch consequence ledger with prohibited branches.
+- **Act I revised in place + Mission 4 added** (`story/act1_mission1..4*.md`). All eight audited issues fixed:
+  1. Photograph chain: one roll, three prints, single sender; docks text declined in M1 and paid in M4.
+  2. Jae-Ho: Act I gives only evidence-supported facts (light coffin, courier note); full truth staged for Act III.
+  3. Mandu: knowledge bounded and source-tagged on-screen; no premature conspiracy knowledge.
+  4. M3 branching: three routes with exclusive evidence AND exclusive costs; no stacking.
+  5. Niko: recognizes phrases, never a voice/face; witnessed/inferred/concealed/unknown separated.
+  6. Roman: canon family added (Mallorie, daughter); agency beat staged M3→M8 binding.
+  7. Kate: past-tense guard, no Deal-ending implications.
+  8. Causal logic: no Beneficiary/Accountant/ledger names in Act I dialogue; timeline collision fixed (massacre → March 2009, present → spring 2019).
+- **Technical documentation reset** (`docs/*`): fabricated "VERIFIED LOCALLY" claims retracted; external research cited (LuaModLoader built for CE 1.2.0.59 — Nexus #1313; Ultimate ASI Loader; SHDN CE fork 1.7.1.9; FusionFix CE support; ZolikaPatch downgrade-only guidance); PoC plan P0–P3 with gates; local-verification checklist; file manifest; rollback runbook; 84-second storyboard for the M4 pier beat.
 
-### Pending
-- **Stage 5: Campaign outline** — full act structure with 15-18 missions; Act II-V outline beginning after Act I audit
-- **Stage 6: Spoiler-free narrative design document** — approved character profiles, voice/tone guide, mission outlines, continuity restrictions
-- **Stage 7: Audit and approval** — continuity with GTA IV's selected ending, causal coherence, character motivation, clue fairness, pacing, emotional impact, mission variety, technical feasibility, originality, whether final choice is earned
-- **Stage 8: Mission-by-mission writing** — future scripts after approval (one at a time)
+## Corrections to prior agent's work (integrity)
+| Prior claim/doc | Finding | Action |
+|---|---|---|
+| compatibility-matrix "VERIFIED LOCALLY" / "Verified Compatible" | No local environment exists in this workflow | Retracted; rows re-statused with sources; verification protocol added |
+| "BO Hann International Airport" | Not a GTA IV location | Francis International Airport; REJECTED list 7.5 |
+| Massacre dated 2008 with Niko as bodyguard | Collides with GTA IV main events + Kate's death | Moved to March 2009 (P-3.1); headstone updated |
+| Mandu explaining the conspiracy at M2 | Premature; violated fair-play | REJECTED 7.3; knowledge bounded |
+| M3 "three paths converge on same truth" | Cosmetic branching | REJECTED 7.6; exclusive routes implemented |
+| Distorted caller described as "the Beneficiary calls directly" | Contradicted the caller's own dialogue | Caller = Accountant (voice-changed); Beneficiary unnamed in Act I |
 
-### ACT I Specific
-- **3 missions written:** The Return, Dead Drop, Monitored
-- **Act I themes established:** Return from exile, dead intermediary not really dead, surveillance/monitoring of survivors
-- **Key Act I revelations:** Jae-Ho Lee faked his death; Beneficiary is actively watching; Roman is a vulnerability; three investigation paths for Act II (Kostov, Accountant, Mandu's lieutenant)
+## In progress / next
+1. **USER REVIEW — Decision Queue** (canon-ledger §8): Beneficiary identity (4.11), the Reckoning shape (4.2/4.6/5.5), timeline move (3.1–3.3), Accountant's staged job (4.3–4.5), names (2.5/2.6/1.17/1.18), runtime choice (6.3).
+2. **Local PoC** on the target laptop per `docs/local-verification-checklist.md` (requires user approval to install any loader).
+3. **Act II scripting** (M5 "Blood and Paper" first), one mission at a time, after Decision Queue feedback — per Readmap Stage 8 discipline.
 
-### Next Steps
-- Complete writer-only master chronology (Stage 2) — finalize the complete causal truth
-- Finalize character profiles for sister and Mandu (Stage 3) — what they know, their arcs
-- Audit Act I for continuity, causal coherence, clue fairness (Stage 7 preliminary)
-- Proceed to Act II outline and mission writing
-- Present design to user for approval before Stage 8
+## Known risks / watchlist
+- LuaModLoader API surface is undocumented in this repo until installed; PoC P1 exists precisely to discharge that risk.
+- Timeline move (2008→2009) is PROPOSED; if the user rejects, M2's headstone, M1 dialogue, and chronology B4 need a dated rework (bounded, ~1 hour).
+- Intel UHD 620 performance for cutscene camera paths is unmeasured; storyboard has static-camera fallbacks.
+- Single-canon ending policy is documented in campaign-outline.md; any multi-ending desire must come from the user.
 
-### Notes
-- All decisions marked as proposed awaiting user approval where noted
-- Technical constraints noted (LuaModLoader, Intel UHD 620, GTA IV 1.2.0.59)
-- Cinematic approach: staging, camera, lighting, editing, sound, pacing; smart asset reuse not custom assets
-- Preferred ending: "The Reckoning"
-- Revenge ending continuity: Roman survives, Kate dies
-- Haru's visual basis: Luis Lopez character model, but Haru has own identity, personality, history, dialogue (per user decision)
-- Mission variety: surveillance, infiltration, investigation, deception, character dialogue, decision points, pursuit
-- No custom weapons or vehicles required — all existing GTA IV assets
-- LuaModLoader compatibility: uses existing native functions verified where possible
-
-### Decision Log (Key Choices Made)
-1. **Jae-Ho Lee fakes his death** in Mission 2 — he's alive, helped by someone in the network
-2. **The Beneficiary actively watches** Haru from the start of the campaign (phone call in Mission 3)
-3. **Roman is identified as a vulnerability** — the network will use him as leverage
-4. **Three investigation paths for Act II:** Vladimir Kostov, The Accountant, or Mandu's lieutenant
-5. **Niko's concealed evidence** is parallelled by Jae-Ho's choice and the Beneficiary's phone call — hinted at but not revealed in detail
-6. **Haru's central flaw** (confusing control with certainty) will be tested throughout the campaign
-7. **Preferred ending:** "The Reckoning" — Haru exposes/kills mastermind; sister exposes compromised past; Niko/Haru uneasy understanding; Mandu's loyalty becomes real
+## Session report pointers
+- Branch: `main` (working tree clean at last commit).
+- Commits this session: canon+chronology / characters / architecture / Act I / tech docs / status+readme+readme (see `git log`).
+- Nothing was tested on hardware (impossible remotely); nothing was installed anywhere; no game files touched.

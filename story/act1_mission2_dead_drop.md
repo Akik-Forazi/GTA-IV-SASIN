@@ -80,8 +80,8 @@ MANDU (39, cheerful, dressed one degree too warm for the weather) approaches alo
 3. **Sedan event:** if the player approaches the sedan, it pulls away (no combat). If ignored, the walk to the apartment is calm.
 4. **Apartment search (Bohan walk-up, already-tossed but not emptied):** evidence objects, in order of find:
    - **The courier note** — a strip of paper in a hollowed doorframe: *"KOSTOV — via the broker on Sweeney St. Paid to forget. Don't use the front."* *(C-06. Jae-Ho kept his booking chain.)*
-   - **A seized camera** — film door snapped, empty spool. *(The site was already searched; the accountants got here first. Tells the player the enemy is also a paperwork animal.)*
-   - **A school photo of a boy** — on the back: *"D. Study well."* Unexplained. *(Mandu's brother seed, planted silently. Payoff M9–M10.)*
+   - **A seized camera** — film door snapped, empty spool. *(The site was already searched; the professionals got here first. Tells the player the enemy is also a paperwork animal.)*
+   - **A school photo of a boy** — on the back: *"D. Study well."* Unexplained. *(Writer note: MANDU pockets it without a word — the player sees the hesitation; no one else does. He cannot explain it, because the boy is his brother. Seed pays M9–M10; nothing is said in Act I.)*
 5. **Escape:** watchers arrive at the street ends. **Fight-or-flee:** combat is survivable but the escape is mandatory; during the sprint through the lots, a stray round scars Haru's left ear — **he bleeds, he staggers, Niko hauls him a fence.** *(Not-immortal beat 1 of Act I. Permanent tinnitus, M17 callback.)*
 6. **End scene — depot back office, night:** Niko patches the ear. Roman reads the courier note.
 

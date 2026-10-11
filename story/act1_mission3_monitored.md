@@ -80,7 +80,7 @@ Roman's office phone rings. Not the cell. **The depot line.**
 
 **[SCENE: SAFEHOUSE — LATE NIGHT]**
 
-The route's yield on the table. Roman's depot line rings again; Niko answers this time; the line is silent for four seconds, then the voice, almost warm:
+The route's yield on the table. *(If the yield is paper — routes A/C — NIKO reads the phrases off the memo and goes still: same burn, different mouth. Only route B hears them spoken live.)* Roman's depot line rings again; Niko answers this time; the line is silent for four seconds, then the voice, almost warm:
 
 **VOICE (V.O.)** "Withdrawal declined, then. Noted in the file. You didn't come to the water, Mr. Haru. The water will come to you."
 
