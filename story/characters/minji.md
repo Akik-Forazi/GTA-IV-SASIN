@@ -1,9 +1,9 @@
 # Kim Min-ji
 
-**Adoptive sister; corporate strategist.** Status refs: canon-ledger 1.7, 1.17, 2.x. Age 35 (b. 1984). Biological daughter of Kim Tae-joon. CONFIRMED name (pre-existing ledger).
+**Adoptive sister; corporate strategist.** Status refs: canon-ledger 1.7, 1.17, 2.x. Age 41 (b. 1984). Biological daughter of Kim Tae-joon. CONFIRMED name (pre-existing ledger).
 
 ## Player-facing definition
-- Runs the successor holdings of the Seorin Group estate from LC (since 2017): winding down litigation, defending the subsidiaries, keeping the name clean. Brilliant at acquisitions, contracts, records, and reputation — the four levers of her world.
+- Runs the successor holdings of the Seorin Group estate from LC (since 2023): winding down litigation, defending the subsidiaries, keeping the name clean. Brilliant at acquisitions, contracts, records, and reputation — the four levers of her world.
 - Her doctrine is explicit and quotable: **"Information you fire is a weapon. Information you hold is insurance. Information you release is neither."**
 
 ## Voice
@@ -30,7 +30,7 @@
 - **The Beneficiary**: she never meets him until the end — and by then she has already beaten him in the only forum he never learned to price: records he did not know existed.
 
 ## Writer-only notes
-- She receives the same trust notice in January 2019 and files it. Her guilt about filing it is her M5 tell — Haru reads his sister for the first time and is unsettled that he can.
+- She receives the same trust notice in January 2025 and files it. Her guilt about filing it is her M5 tell — Haru reads his sister for the first time and is unsettled that he can.
 - She never meets the Accountant; she deduces his existence from double-entry logic ("every fabrication needs a bookkeeper") — M11, her cleanest deduction, and the player's too.
 - Her exposure package is assembled from M6 onward in pieces the player watches: never a last-minute miracle.
 

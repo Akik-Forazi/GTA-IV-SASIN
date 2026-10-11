@@ -68,7 +68,7 @@ Roman's office phone rings. Not the cell. **The depot line.**
 - **Gameplay:** stage the false drop (player places two points), containment fight — non-lethal takedowns flagged (`sasin_restraint`), one scripted handoff interruption. Failure = the watcher dies in the scuffle (flag `sasin_bodycount`, heavier M7).
 - **Yield (EXCLUSIVE):** a captured watcher, interrogated by Niko (Haru stays out of frame — a choice the scene makes explicit). The man is ex-military diaspora, cheap, and *phrased*: **"The account is ready." "The asset is secure." "The problem is handled."** He has never seen a face; he has a payment memo with a shell name.
 - **Cost (EXCLUSIVE):** the capture accelerates the network's clock — M8's depot pressure arrives earlier and harder.
-- **Scene button:** NIKO goes still at the phrases — the player sees it; nobody in the room knows why. *(Niko's burn: the words echo the 2009 burner text he has never shared. C-07. He says nothing. This silence IS the clue.)*
+- **Scene button:** NIKO goes still at the phrases — the player sees it; nobody in the room knows why. *(Niko's burn: the words echo the 2011 burner text he has never shared. C-07. He says nothing. This silence IS the clue.)*
 
 ## Route C — "Work the Habit" (Mandu's con)
 - **Gameplay:** social-engineering set-piece: Mandu (player-directed) impersonates a dispatcher to intercept the paymaster's courier — timing prompts, one forged docket, one improvised save if a prompt is missed. Failure = Mandu pulled off the street by his collar; retry with a worse ratio.

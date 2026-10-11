@@ -5,7 +5,7 @@
 ## Mission Overview
 - **Placement:** Act I, Mission 1 of 4. **Dramatic objective:** the inciting incident — Haru returns carrying print #1, declines the first lure, and re-bonds with Niko and Roman while the watchers log his arrival.
 - **Why now:** the photograph forced the return (chronology C3); the watchers' presence tells Haru (and the player) that his arrival is already priced in.
-- **Character conflict:** Haru's controlled demeanor against the visceral fact of being home; Niko's guarded relief and ten years of unspoken knowledge; Roman's warmth pulling the scene toward family while danger circles it.
+- **Character conflict:** Haru's controlled demeanor against the visceral fact of being home; Niko's guarded relief and fourteen years of unspoken knowledge; Roman's warmth pulling the scene toward family while danger circles it.
 - **Gameplay variety:** walking navigation, optional Roman taxi ride, phone scenes, safehouse arrival. No combat — a tone-setter.
 
 ## Opening cinematic
@@ -20,7 +20,7 @@ Haru reads it twice. His eyes move to a parked sedan past the taxi rank: engine 
 
 **[CAMERA: tracking shot through arrivals; hold on Haru's face as he pockets the phone without replying; slow push-in on the sedan as the wiper completes one arc — the silhouette does not move.]**
 
-**[INSERT — HARU'S DOCUMENT CASE, opened on his knee earlier at the gate: the photograph. Grainy, ten years old, a warehouse night. A suited figure at the door. A typed strip beneath it: "IT WAS A CONTRACT. ASK NIKO BELLIC WHO STOOD AT THE DOCKS... " — final words cut by the fold. The player has seen it; no name is given.]**
+**[INSERT — HARU'S DOCUMENT CASE, opened on his knee earlier at the gate: the photograph. Grainy, fourteen years old, a warehouse night. A suited figure at the door. A typed strip beneath it: "IT WAS A CONTRACT. ASK NIKO BELLIC WHO STOOD AT THE DOCKS... " — final words cut by the fold. The player has seen it; no name is given.]**
 
 *(Writer note: the typed strip is the player's only text on print #1. It plants C-01 without naming anyone.)*
 
@@ -68,7 +68,7 @@ Roman talks; Niko stands at the window with his back to the room, which is how N
 
 **ROMAN** "Right. Serious faces. Serious faces."
 
-**HARU** (sets the document case on the table, doesn't open it) "I came back because of what happened in 2009. Not to mourn. To find out who bought it."
+**HARU** (sets the document case on the table, doesn't open it) "I came back because of what happened in 2011. Not to mourn. To find out who bought it."
 
 **NIKO** (turning now) "'Bought.'"
 
@@ -112,11 +112,11 @@ A silence. Roman looks between them like a man at the wrong dinner table.
 - **Kate:** past tense only; she is referenced via Niko's careful silences, never named casually. No Deal-ending implications anywhere.
 - **Roman:** alive; married to Mallorie; young daughter exists (named Kate, P-1.18); he is warm and observant, never a plot hostage in this mission.
 - **Niko:** recognizes the warehouse from the photograph; does NOT mention any phone, any name, any "beneficiary." His warnings are proverbial, not factual.
-- **Setting:** spring 2019; massacre was March 2009 (P-3.1). Haru was abroad ten years; the "Rotterdam" line matches his logistics cover.
+- **Setting:** 2025 (spring, provisional); massacre was March 9, 2011 (user decision — ledger 3.1). Haru was abroad fourteen years; the "Rotterdam" line matches his logistics cover.
 - **No character uses the words "Beneficiary," "Accountant," or "ledger" in this mission.**
 
 ## Spoiler check (player-facing)
-**Reveals:** Haru returned; the photograph exists and shows a suited figure; Niko was present in 2009; watchers are logging the return; a "—A." lure exists and was declined; Roman has a new corporate account.
+**Reveals:** Haru returned; the photograph exists and shows a suited figure; Niko was present in 2011; watchers are logging the return; a "—A." lure exists and was declined; Roman has a new corporate account.
 **Does NOT reveal:** who "—A." is; the sender of the photograph; the Beneficiary; the Accountant; the ledger/trust; Jae-Ho's survival; Niko's burner; why the evidence resurfaces.
 
 ## Spoiler check (writer reference)

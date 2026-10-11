@@ -10,7 +10,7 @@
 - Fast, warm, bargaining even when bargaining is pointless ("I give you the friend rate, which is still a rate"). Babbles when frightened — and *knows* he babbles, which he turns into material. His courage is louder than it is large and shows up exactly when it counts.
 
 ## Flaw
-Optimistic leverage: he grew the business on debt and trust in the wrong clients' paperwork. He signs things. In 2019 he has signed a corporate account he cannot read his way out of — which is how the network rides his depot (M8's discovery), and why his vulnerability is structural, not personal stupidity.
+Optimistic leverage: he grew the business on debt and trust in the wrong clients' paperwork. He signs things. In 2025 he has signed a corporate account he cannot read his way out of — which is how the network rides his depot (M8's discovery), and why his vulnerability is structural, not personal stupidity.
 
 ## The earned moment (M8 — binding)
 Roman notices the pattern himself: bookings of his cabs cluster in a rotation no dispatcher set — the same six blocks, the same shift gaps, invoices paid from a shell he never heard of. **Roman brings the pattern to Haru; Haru did not find it.** This is the character beat that makes him a partner in the plot instead of a hostage in it, and it must never be given to Niko or Haru instead.
@@ -20,7 +20,7 @@ Roman notices the pattern himself: bookings of his cabs cluster in a rotation no
 - **II**: the pattern (M8). His discovery opens the watchers' rotation and their safehouse. He insists on driving the decoy route himself — his depot, his men, his risk — and Niko lets him, which is its own character beat.
 - **III**: the scare that isn't staged for plot: a fake booking call lures a depot driver (not Roman) into a bad corner. Roman's response is not to hide but to lock the books down and give Haru the ledger copies — agency under fear.
 - **IV**: Baek's counterstroke (M14) hits the depot; Mallorie and the kids are moved to Mallorie's cousin's place in Algonquin; Roman refuses to leave the city ("my cabs are how your witnesses move, cousin") — his business becomes the campaign's safe logistics.
-- **V**: he drives the night of the reckoning — ordinary man, extraordinary steadiness. Epilogue: the depot turns a real profit for the first time since 2009, and he cries about it at dinner, and it is the funniest and most moving scene in the act.
+- **V**: he drives the night of the reckoning — ordinary man, extraordinary steadiness. Epilogue: the depot turns a real profit for the first time since 2011, and he cries about it at dinner, and it is the funniest and most moving scene in the act.
 
 ## Relationships
 - **Niko**: the debt runs both ways now — Niko protected Roman's family by staying silent; Roman's family is what Niko protects by standing.

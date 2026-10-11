@@ -1,6 +1,6 @@
 # The Beneficiary — Baek Seung-ho ("the Chairman")
 
-**The top of the chain.** Status refs: canon-ledger 1.11, 4.11–4.13; chronology A1, C2. Age 79 in 2019. **PROPOSED — HIGH IMPACT: identity requires explicit user approval (Decision Queue #1).**
+**The top of the chain.** Status refs: canon-ledger 1.11, 4.11–4.13; chronology A1, C2. Age 79 in 2025. **PROPOSED — HIGH IMPACT: identity requires explicit user approval (Decision Queue #1).**
 
 ## Player-facing definition (by act)
 - **Act I**: unnamed. The word "beneficiary" does not exist in the player's vocabulary yet; the player feels only that the Russians had a *buyer*.
@@ -12,7 +12,7 @@
 ## The man
 - Built Haeun from a Busan shipping trust into a trans-pacific web. Publicly: honors, boards, a scholarship foundation. Privately: he owns almost nothing and is owed almost everything — obligations, not assets; **entitlement as an art form** **[A1]**.
 - His instrument was the network: payments, logistics, cleanup — routed through other men's warehouses so no fingerprint ever touched him. Kim Tae-joon was his best rail, and the closest thing to a son the system allowed. When the rail tried to exit through the front door of Haeun itself, he priced it: the ledger was worth more than the man **[B2]**.
-- 2019: old, mid-**succession war**, aware the house is sniffing his age. The trust notice is the one variable he cannot buy, delay, or bury: it *unlocks by law*. His need is the clock the whole act runs on.
+- 2025: old, mid-**succession war**, aware the house is sniffing his age. The trust notice is the one variable he cannot buy, delay, or bury: it *unlocks by law*. His need is the clock the whole act runs on.
 
 ## Method (anti-omnipotence rules — canon 4.13)
 - He never personally orders anything traceable; he **sets conditions** — officials, intermediaries, deniable assets — and lets systems act. He does not kill Haru in Act I because killing the son before the ledger surfaces risks burying the one map to it. He *watches* instead. His patience is a constraint, not a power.

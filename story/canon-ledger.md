@@ -18,7 +18,7 @@ Writer-only material (true chronology, secrets, spoiler timing) lives in `writer
 | # | Item | Status | Notes |
 |---|------|--------|-------|
 | 1.1 | Continuity follows GTA IV's **Revenge ending**: Niko kills Dimitri Rascalov; **Kate McReary dies** at Roman's wedding; **Roman survives**, marries Mallorie; Mallorie is pregnant at the epilogue | CONFIRMED | Hard GTA IV canon. Kate is always referenced in the past tense. |
-| 1.2 | Setting: Liberty City, roughly **ten years after the Revenge ending** (working present: **spring 2019**) | CONFIRMED (2019 date) / PROPOSED (season) | 2019 follows arithmetically from the massacre dating (see 3.1). |
+| 1.2 | Setting: Liberty City, campaign present year **2025** (user-declared world canon). Working chain: massacre **March 9, 2011** (user decision) — fourteen years before the present | CONFIRMED (2025 present and 2011 massacre — user decisions) / PROPOSED (March 9 as the exact day) | See §1a and 3.1 for the decision history. |
 | 1.3 | Protagonist: **Kim Haru**, born **Ahsan** in Bangladesh; adopted at age 8 (1994) by the powerful Korean Kim family; known in the underworld as **SASIN** | CONFIRMED | |
 | 1.4 | Haru is already **wealthy, connected, and dangerous** at campaign start. Not a rags-to-riches story | CONFIRMED | |
 | 1.5 | Haru's adoptive family was **massacred by Russian criminals**; the full chain of responsibility above the trigger-pullers is the campaign's mystery | CONFIRMED | |
@@ -35,6 +35,15 @@ Writer-only material (true chronology, secrets, spoiler timing) lives in `writer
 | 1.16 | Tone: grounded crime thriller, Korean family-power drama, cinematic action, dark humor. Broad genre inspiration only — no copying distinctive characters, dialogue, missions, or storylines from other works | CONFIRMED | |
 | 1.17 | Haru's family business entity is named **Seorin Group** | PROPOSED | Needed for corporate plotting (M5+). |
 | 1.18 | Roman and Mallorie's daughter exists (canon epilogue); she is named **Kate**, after Kate McReary | PROPOSED | Child is canon; the name is an invented, in-character tribute. |
+
+## 1a. World & Technology Canon (user-declared 2026-10-11; operational detail in world_canon.md)
+
+| # | Item | Status | Notes |
+|---|------|--------|-------|
+| W.1 | **Present year is 2025.** The world evolved economically, criminally, corporately, and politically; everyday technology stagnated around GTA IV's era | CONFIRMED | Direct user declaration. Supersedes the former 2019 working present. |
+| W.2 | **Creative rule: "Modernize the power structures, not the technological aesthetic."** Sophistication comes from human organization (hierarchy, tradecraft, records, leverage) — not technology | CONFIRMED | Binds missions, dialogue, props, interfaces, cinematics, environmental storytelling. |
+| W.3 | Period-appropriate phones, vehicles, interfaces, infrastructure, and devices are natural in 2025; new technology may not appear merely because real-world 2025 has it — it must fit the established alternate history | CONFIRMED | Writer checklist in world_canon.md §W-4. |
+| W.4 | Evidence chain remains physical-first (film prints, paper, burner phones, filings). No plot beat may rely on post-GTA IV-era digital capability | CONFIRMED | Strengthens fair-play design; codifies existing practice. |
 
 ## 2. Characters — writer-locked facts
 
@@ -55,9 +64,9 @@ Writer-only material (true chronology, secrets, spoiler timing) lives in `writer
 
 | # | Item | Status | Notes |
 |---|------|--------|-------|
-| 3.1 | The massacre occurred in **March 2009** — months after the Revenge ending, when a grieving Niko took a private security contract with the family | PROPOSED | Fixes a hard collision: the prior docs placed the massacre in 2008, while Niko was occupied with the events of GTA IV through late 2008 and Kate's death. 2009 also makes "ten years" arithmetic work. |
-| 3.2 | The headstone in Mission 2 reads "**2009**" | PROPOSED | Follows 3.1. |
-| 3.3 | The campaign present is **spring 2019** | PROPOSED | Follows 3.1. |
+| 3.1 | The massacre occurred on **March 9, 2011** — years after the Revenge ending, during Niko's quiet private-security years; Packie referred him to the Kim family in early 2011 | CONFIRMED (year — user decision, 2026-10-11) / PROPOSED (March 9 as exact day) | Decision history: 2008 (original docs) → 2009 (Niko-availability fix) → 2015 (writer's provisional derivation under the 2025 present — see REJECTED 7.10) → **2011 (user decision)**. Gap to present: fourteen years. |
+| 3.2 | The headstone in Mission 2 reads "**2011**" | CONFIRMED (year — follows from the user's massacre decision) | Follows 3.1. |
+| 3.3 | The campaign present is **2025** (working: April 2025; season "spring" provisional) | CONFIRMED (year — user declaration) / PROPOSED (season) | Year is world canon (W.1); season remains a writer choice. |
 | 3.4 | Haru's return was **caused by receiving an anonymous photograph abroad weeks earlier** | CONFIRMED (as mechanic) | The sender and the print chain are defined in the chronology (PROPOSED). |
 
 ## 4. The conspiracy (writer-only summary; full detail in chronology)
@@ -65,14 +74,14 @@ Writer-only material (true chronology, secrets, spoiler timing) lives in `writer
 | # | Item | Status | Notes |
 |---|------|--------|-------|
 | 4.1 | The network moved money and "cleanup" services through the Kim family's corporate infrastructure; the father knew the money was dirty but not, for years, what "cleanup" meant | PROPOSED | |
-| 4.2 | The father's **final transaction** (2008-09): he attempted to buy his family out of the network through the one house he trusted — which turned out to be the Beneficiary's own, revealing both his intent and the ledger's existence to the Beneficiary | PROPOSED | This is the answer to "what made it worse." |
+| 4.2 | The father's **final transaction** (2010–11): he attempted to buy his family out of the network through the one house he trusted — which turned out to be the Beneficiary's own, revealing both his intent and the ledger's existence to the Beneficiary | PROPOSED | This is the answer to "what made it worse." |
 | 4.3 | The Beneficiary ordered the massacre; **the Accountant staged the job** (a fabricated "records retrieval with prejudice") that Kostov's crew and Jae-Ho were each deceived into | PROPOSED | |
 | 4.4 | Jae-Ho booked the crew under the false pretext, discovered the truth mid-operation, and gave a too-late warning — which is **why Haru and Min-ji survived** (they had been moved to the loading office for a planned exit) | PROPOSED | Answers "why were they spared" without luck-as-plot. |
 | 4.5 | The Accountant helped Jae-Ho disappear **for the Accountant's own insurance** — a live witness who can be produced against the Beneficiary, not mercy | PROPOSED | Resolves "who helped him and why." |
-| 4.6 | The **master ledger** sits in a testamentary trust that unlocks to the heirs in **2019**. The trust notification is the trigger that makes the evidence resurface now | PROPOSED | Answers OPEN #8 (why now) with a causal mechanism. |
+| 4.6 | The **master ledger** sits in a testamentary trust unlocking on the tenth anniversary of the father's death (March 2021); probate litigation froze distribution for four years, and the January 2025 statutory notice — the estate wind-down's conclusion — is the trigger that makes the evidence resurface now | PROPOSED | Answers OPEN #8 (why now) with a causal mechanism; the 2021→2025 freeze is explained by the established Seorin probate litigation (chronology C2). |
 | 4.7 | Niko's concealed evidence: the **suited liaison's burner phone**, taken from the body at the warehouse door, containing one text he read: "ACCOUNT CLEARS FRIDAY. THEN THE BROOM." | PROPOSED | Concrete, checkable, and foreshadowed by phrase echoes. |
 | 4.8 | Niko **witnessed** the suited liaison (not the Beneficiary); **inferred** a contract job; **concealed** the phone, the text, and the description; **does not know** who the liaison or the account belonged to | PROPOSED | Fixes Niko-recognition overreach in Mission 3. |
-| 4.9 | The massacre photograph chain: one roll, **three prints** — #1 mailed to Haru abroad (Feb 2019), #2 left at Jae-Ho's grave (March 2019, different figure circled), #3 kept by the sender. The photographer was the crew's **spotter** ("the Photographer," a distinct Act II lead). All nudges (prints, "—A." text, distorted call) come from the **Accountant**, not the Beneficiary | PROPOSED | Resolves the three-way contradiction among docks message / grave photo / airport photo. |
+| 4.9 | The massacre photograph chain: one roll, **three prints** — #1 mailed to Haru abroad (Feb 2025), #2 left at Jae-Ho's grave (March 2025, different figure circled), #3 kept by the sender. The photographer was the crew's **spotter** ("the Photographer," a distinct Act II lead). All nudges (prints, "—A." text, distorted call) come from the **Accountant**, not the Beneficiary | PROPOSED | Resolves the three-way contradiction among docks message / grave photo / airport photo. |
 | 4.10 | The distorted phone caller in Mission 3 is **the Accountant** (voice-changed) — a warning and a lure. He never names the Beneficiary in Act I | PROPOSED | The "Beneficiary" name is coined by Min-ji in Act II from ledger structure, not dropped by the antagonist. |
 | 4.11 | The Beneficiary's identity: **Baek Seung-ho ("the Chairman")**, honorary chairman of the Haeun Group, the adoptive father's former mentor | PROPOSED — HIGH IMPACT | Requires explicit user approval. |
 | 4.12 | The Beneficiary's blind spots: he prices everyone in fear and greed; cannot model exposure chosen over leverage, trust given freely, or a man who stops needing to control | PROPOSED | Powers the ending. |
@@ -111,14 +120,18 @@ Writer-only material (true chronology, secrets, spoiler timing) lives in `writer
 | 7.5 | "BO Hann International Airport" | REJECTED | Not a GTA IV location. Haru arrives at **Francis International Airport**. |
 | 7.6 | All three Mission 3 routes yielding the same core intel plus each other's leads | REJECTED | Cosmetic branching; replaced by 5.4. |
 | 7.7 | Claiming any local verification of loader/game compatibility from the remote workspace | REJECTED | Integrity violation; see 6.2. |
+| 7.8 | Campaign present in **2018/2019** (all pre-2025-can derivations, including massacre 2009 + trust 2019) | REJECTED | Superseded by user world canon W.1 (present = 2025). The 2009 massacre date survives only as a rejected ancestor of the current 3.1 proposal. |
+| 7.9 | Post-GTA IV-era consumer technology on screen or in plot (smartphones, social media, drones, cloud/GPS records, modern interfaces) appearing merely because real-world 2025 has it | REJECTED | Violates user world canon W.2–W.3 (technological stagnation). |
+| 7.10 | Massacre dated **2015** (writer's provisional derivation under the 2025 present) | REJECTED | Superseded by the user's explicit decision (2026-10-11): the massacre is in **2011**. All ten-years phrasing converted to fourteen years; trust freeze mechanism added to preserve the 2025 delivery. |
 
 ## 8. Decision Queue (needs user approval — most consequential first)
 
+**Resolved 2026-10-11 (user decision, no further approval needed):** the massacre year is **2011** (ledger 3.1). Full chain propagated: Niko referral early 2011; will amended February 2011; trust unlock (tenth anniversary) March 2021, frozen by probate litigation until the January 2025 statutory notice; return April 2025. All "ten years" phrasing converted to fourteen years; M11 retitled "Fourteen Years of Silence."
+
 1. **4.11 Beneficiary identity** (Baek Seung-ho / Haeun Group) — HIGH IMPACT.
 2. **4.2 + 4.6 + 5.5** the final transaction, the trust unlock as the "why now," and the shape of The Reckoning — HIGH IMPACT.
-3. **3.1-3.3 massacre moved to March 2009; present = spring 2019** — timeline correction.
-4. **4.3-4.5 the Accountant's staged job and his insurance of Jae-Ho** — defines "The Man Who Lied."
-5. **2.6 / 2.5 / 1.17 / 1.18 names**: Kim Tae-joon, Moon Du-seok, Seorin Group, the child "Kate."
-6. **6.3 runtime choice** (LuaModLoader primary) — required before any install approval.
+3. **4.3-4.5 the Accountant's staged job and his insurance of Jae-Ho** — defines "The Man Who Lied."
+4. **2.6 / 2.5 / 1.17 / 1.18 names**: Kim Tae-joon, Moon Du-seok, Seorin Group, the child "Kate."
+5. **6.3 runtime choice** (LuaModLoader primary) — required before any install approval.
 
 *If the user amends any item above, update this ledger first, then the chronology, then affected scripts.*

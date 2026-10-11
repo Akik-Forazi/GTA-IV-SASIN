@@ -1,11 +1,21 @@
 # Status Log — GTA IV: SASIN
 
-**Last updated: 2026-10-11 (remote workspace session — "audit & architecture" pass)**
+**Last updated: 2026-10-11 (second pass — world canon + massacre-2011 decision)**
 
 ## Current stage
-**Narrative architecture COMPLETE (writer-level) · Act I scripts revised (4 missions) · Technical plan reset to honest baselines.** Next gate: user review of the Decision Queue (canon-ledger §8) → then Act II scripting one mission at a time → local PoC execution on the target laptop.
+**World canon integrated (present 2025, technological stagnation) · Massacre year fixed at 2011 by user decision; full timeline chain re-propagated · Decision Queue resolved of the timeline item.** Next gate: user review of the remaining Decision Queue items (canon-ledger §8) → then Act II scripting one mission at a time → local PoC execution on the target laptop.
 
-## Completed this session
+## This session (2026-10-11, second pass)
+- **World canon recorded and bound** (`story/world_canon.md`, new): the user's Technological Stagnation declaration preserved verbatim; operational split (power structures modernized / everyday tech GTA IV-era), writer checklist, and fair-play rationale codified. Ledger §1a (W.1–W.4) CONFIRMED; REJECTED 7.9 added (no post-GTA IV-era tech on screen or in plot).
+- **Timeline decision applied — massacre year = 2011 (user decision).** Chain now: GTA IV ending 2008 (canon) → Niko's quiet-contract years 2009–2010 → Packie referral early 2011 → **massacre March 9, 2011** → heirs abroad fourteen years → trust notice January 2025 → return April 2025. Statuses updated (1.2, 3.1–3.3, 4.2, 4.6); prior 2015 derivation moved to REJECTED 7.10; Decision Queue resolution note records the decision.
+- **Trust "why now" mechanism preserved under the new dates:** the trust unlocks on the tenth anniversary of the father's death (March 2021); the established Seorin probate litigation freezes distribution for four years; the January 2025 statutory notice (wind-down concluded) is the tripwire. Recorded in chronology C2 and ledger 4.6.
+- **Fourteen-year gap propagated everywhere "ten years"/"decade" appeared:** chronology B7/C1/C3/E15/Part F, clue C-18, M11 retitled **"Fourteen Years of Silence"** (campaign-outline), Niko's M11 dialogue line, Haru/Mandu/Jae-Ho/Kostov profiles, Act I scripts (photo "fourteen years old", "first honest answer in fourteen years").
+- **Ages re-derived from b. 1986/1984:** Haru 24 at the massacre (39 now), Min-ji 26 at the audit discovery (41 now); dramatis-personae ages pinned to 2025 (Jae-Ho 61, Kostov 58, Baek 79, Mandu 45).
+- **Pre-existing continuity bug fixed:** Niko's account-trace was written as "then the wedding happened" (Kate's death) *after* the massacre — impossible, since the wedding precedes it (canon). Reworded in chronology B7 and niko.md: Kate's death is the *prior* arithmetic that closes the trace.
+- **Indexes updated:** story/README.md reading order now includes world_canon.md and a binding world-canon rule; world_canon.md consequence note points at the §8 resolution.
+- Files touched this pass: world_canon.md (new), canon-ledger.md, writer_master_chronology.md, campaign-outline.md, clue-schedule.md, story/README.md, status.md, all 10 character profiles, all 4 Act I scripts.
+
+## Prior session (2026-10-11, "audit & architecture" pass — historical; dates therein superseded by this pass)
 - **Repository audited end-to-end** (20 files, git history, working tree). Prior-agent claims checked against actual files; contradictions logged.
 - **Canon ledger restructured** (`story/canon-ledger.md`): CONFIRMED / PROPOSED / OPEN / REJECTED statuses, decision queue of consequential items needing user approval, fabricated-verification prohibition codified (6.2, 7.7).
 - **Writer-only master chronology resolved** (`story/writer_master_chronology.md`): complete causal chain — network purpose, father's final transaction, the staged job, why the children were spared, who helped Jae-Ho and why, the trust as the "why now," all 15 prior OPEN items resolved or staged (Part E), continuity guards (Part F).
@@ -33,17 +43,18 @@
 | Distorted caller described as "the Beneficiary calls directly" | Contradicted the caller's own dialogue | Caller = Accountant (voice-changed); Beneficiary unnamed in Act I |
 
 ## In progress / next
-1. **USER REVIEW — Decision Queue** (canon-ledger §8): Beneficiary identity (4.11), the Reckoning shape (4.2/4.6/5.5), timeline move (3.1–3.3), Accountant's staged job (4.3–4.5), names (2.5/2.6/1.17/1.18), runtime choice (6.3).
+1. **USER REVIEW — Decision Queue** (canon-ledger §8): Beneficiary identity (4.11), the Reckoning shape (4.2/4.6/5.5), the Accountant's staged job (4.3–4.5), names (2.5/2.6/1.17/1.18), runtime choice (6.3). *(Timeline item resolved: massacre = 2011, user decision.)*
 2. **Local PoC** on the target laptop per `docs/local-verification-checklist.md` (requires user approval to install any loader).
 3. **Act II scripting** (M5 "Blood and Paper" first), one mission at a time, after Decision Queue feedback — per Readmap Stage 8 discipline.
 
 ## Known risks / watchlist
 - LuaModLoader API surface is undocumented in this repo until installed; PoC P1 exists precisely to discharge that risk.
-- Timeline move (2008→2009) is PROPOSED; if the user rejects, M2's headstone, M1 dialogue, and chronology B4 need a dated rework (bounded, ~1 hour).
+- March 9 as the exact massacre day is retained working detail (PROPOSED) under the user-confirmed 2011 year; if the user names a different day, rework is bounded to chronology B4, ledger 3.1, and the M2 headstone.
 - Intel UHD 620 performance for cutscene camera paths is unmeasured; storyboard has static-camera fallbacks.
 - Single-canon ending policy is documented in campaign-outline.md; any multi-ending desire must come from the user.
+- Technological-stagnation rule (W.2–W.4) must be checked per-script going forward; checklist lives in world_canon.md §W-4.
 
 ## Session report pointers
 - Branch: `main` (working tree clean at last commit).
-- Commits this session: canon+chronology / characters / architecture / Act I / tech docs / status+readme+readme (see `git log`).
+- Commits: this pass = world canon + massacre-2011 propagation (see `git log`); prior pass = canon+chronology / characters / architecture / Act I / tech docs / status+readme.
 - Nothing was tested on hardware (impossible remotely); nothing was installed anywhere; no game files touched.

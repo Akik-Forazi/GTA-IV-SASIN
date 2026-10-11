@@ -1,6 +1,6 @@
 # ACT I — MISSION 2: "Dead Drop"
 
-**Revision 2 (2026-10-11).** Fixes: Mandu's knowledge bounded and sourced (REJECTED 7.3), Beneficiary unnamed in Act I (REJECTED 7.4), photograph chain made coherent (print #2 at the grave — different circle), Roman not present at a night cemetery, headstone 2009 (P-3.1), Jae-Ho's Act I facts limited to what evidence supports, daytime scene, Haru wounded (not immortal).
+**Revision 2 (2026-10-11).** Fixes: Mandu's knowledge bounded and sourced (REJECTED 7.3), Beneficiary unnamed in Act I (REJECTED 7.4), photograph chain made coherent (print #2 at the grave — different circle), Roman not present at a night cemetery, headstone 2011 (user decision), Jae-Ho's Act I facts limited to what evidence supports, daytime scene, Haru wounded (not immortal).
 
 ## Mission Overview
 - **Placement:** Act I, Mission 2 of 4. **Dramatic objective:** the "dead man" opens the case — print #2 is found at Jae-Ho's grave, the light-coffin rumor surfaces, and the first hard name (Kostov) is pulled from Jae-Ho's apartment before the network burns the site.
@@ -14,7 +14,7 @@
 
 *(Revision note: daytime. Night cemeteries invite both technical and tonal problems; grief reads cleaner in flat morning light.)*
 
-The headstone: **JAE-HO LEE — 2009 — "HE DIED PROTECTING THE FAMILY."**
+The headstone: **JAE-HO LEE — 2011 — "HE DIED PROTECTING THE FAMILY."**
 
 NIKO stands a body's length back — colleague's distance. HARU comes up the path. Fresh flowers, not theirs. Under the stone vase lip, a corner of photograph paper catches the light.
 
@@ -58,7 +58,7 @@ MANDU (39, cheerful, dressed one degree too warm for the weather) approaches alo
 
 ## Dialogue — the bounded middle
 
-**HARU** "Jae-Ho Lee booked the crew that killed my family. If he's alive, he's the first honest answer in ten years."
+**HARU** "Jae-Ho Lee booked the crew that killed my family. If he's alive, he's the first honest answer in fourteen years."
 
 **NIKO** "If he's alive, he ran *before* they sealed the site. That's not innocence, Haru. That's paperwork."
 
@@ -119,7 +119,7 @@ MANDU (39, cheerful, dressed one degree too warm for the weather) approaches alo
 - **No "Beneficiary," no "Accountant," no "ledger" spoken by anyone.** Mandu's "dressed by an accountant" is a wardrobe joke — audit note: permitted; it is an observation, not the title.
 - **Mandu knowledge tags on-screen** (WITNESSED/INFERRED/BLUFF). He has no PLANTED facts yet (first arrives Act III).
 - **Niko** does not confirm or deny Jae-Ho's survival; he has not seen the grave evidence before this scene.
-- **Headstone: 2009** (P-3.1). Epitaph is paperwork, not family belief.
+- **Headstone: 2011** (user decision — ledger 3.1). Epitaph is paperwork, not family belief.
 - **Kate:** not referenced this mission (rests the grief thread; Roman's family not on-screen).
 - **Roman** appears only in the ending scene (daytime cemetery cut).
 
@@ -130,4 +130,4 @@ MANDU (39, cheerful, dressed one degree too warm for the weather) approaches alo
 ## Spoiler check (writer reference)
 - Plants: C-04 (print #2 + two circles), C-05 (light coffin), C-06 (Kostov note), Mandu's brother seed (silent), the searched-apartment tell (comptroller's method — pays M11).
 - The "accountant" wardrobe line is deliberate bait for perceptive players (clue-schedule audit note: the Accountant is *deducible* from M2 onward through style, never by name).
-- Niko's "paperwork" line is his 2009 inference speaking — he does not know the swap was staged *by the client's side* (chronology B6).
+- Niko's "paperwork" line is his 2011 inference speaking — he does not know the swap was staged *by the client's side* (chronology B6).

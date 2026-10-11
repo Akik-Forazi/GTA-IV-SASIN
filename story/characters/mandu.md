@@ -1,6 +1,6 @@
 # Mandu (Moon Du-seok)
 
-**Con artist; bounded-knowledge comic; real loyalty.** Status refs: canon-ledger 1.8, 2.4, 2.5. Age 39 (b. 1980, Incheon). CONFIRMED: original character, humor without Deadpool-clone energy. PROPOSED: real name/nickname origin.
+**Con artist; bounded-knowledge comic; real loyalty.** Status refs: canon-ledger 1.8, 2.4, 2.5. Age 45 (b. 1980, Incheon). CONFIRMED: original character, humor without Deadpool-clone energy. PROPOSED: real name/nickname origin.
 
 ## Player-facing definition
 - A working con artist of the first rank: impersonation, bluff, social engineering, improvisation. Broke more often than he admits, generous exactly when it costs him.
@@ -22,7 +22,7 @@ Every Mandu fact must be taggable to one of five sources. Writers add to this ta
 - In Act I Mandu does **not** know: the Beneficiary (name, title, or philosophy), the Accountant, the ledger, the trust, or who sent the photographs. He knows Jae-Ho's death smells wrong, he knows the watchers' bread pattern (he has been circling the same crumbs), and he knows Haru is the biggest prey to walk into his best hunt.
 
 ## The hidden stake (seeded M2/M6, revealed M9–M10) **[P-chronology E15]**
-His older brother, **Moon Du-hyun**, was a Seorin warehouseman on the March 2009 night shift — one of the eleven, and one of the *uncounted*: paid as a temp through a shell, never listed, never claimed. The compensation fund the attorneys set up missed him entirely. Mandu has spent ten years hunting the payment chain with the only tools he has — and he is good with tools.
+His older brother, **Moon Du-hyun**, was a Seorin warehouseman on the March 2011 night shift — one of the eleven, and one of the *uncounted*: paid as a temp through a shell, never listed, never claimed. The compensation fund the attorneys set up missed him entirely. Mandu has spent fourteen years hunting the payment chain with the only tools he has — and he is good with tools.
 
 ## Arc by act
 - **I**: enters M2 working his own angle (the sexton lead), invites himself into the hunt, proves useful, gets under every door he shouldn't. Comic engine; real blade underneath.

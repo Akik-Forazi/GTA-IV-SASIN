@@ -1,14 +1,14 @@
 # Vladimir Kostov
 
-**Boss of the visible hand.** Status refs: canon-ledger 2.8, chronology B3–B4, C4. Age 58 in 2019. CONFIRMED: name appears in prior scripts. Role definition per chronology (PROPOSED).
+**Boss of the visible hand.** Status refs: canon-ledger 2.8, chronology B3–B4, C4. Age 58 in 2025. CONFIRMED: name appears in prior scripts. Role definition per chronology (PROPOSED).
 
 ## Player-facing definition
-- Ex-military diaspora Russian; runs a respected "security consulting" trade out of Broker — the kind of firm that does not advertise. In 2009 his crew executed the Seorin warehouse massacre. In 2019 he is still in business, older, richer, and careful.
+- Ex-military diaspora Russian; runs a respected "security consulting" trade out of Broker — the kind of firm that does not advertise. In 2011 his crew executed the Seorin warehouse massacre. In 2025 he is still in business, older, richer, and careful.
 - To the underworld: the visible hand. To himself: a contractor who was told it was a cleanup and keeps the invoice to prove it.
 
 ## What he was told vs. what he did (binding) **[P-4.3]**
 - **The job as sold to him** (by a courier representing "the client," never named): a disputed asset transfer at a Seorin warehouse; squatters with rival backing; "loose hands authorized; paperwork to follow; the family relocates in the morning." Standard cleanup pricing. He was paid through a shell he never heard of again.
-- **What happened**: eleven dead, including staff who were not on any list he was given. One of his own men shot the suited liaison in an early "loose hands" moment — a detail that has bothered Kostov for ten years, because the client *never asked for the liaison's share of the payment back*. The client did not care. That carelessness is what tells Kostov, decades of instinct later, that the job was never about assets **[M7 seed]**.
+- **What happened**: eleven dead, including staff who were not on any list he was given. One of his own men shot the suited liaison in an early "loose hands" moment — a detail that has bothered Kostov for fourteen years, because the client *never asked for the liaison's share of the payment back*. The client did not care. That carelessness is what tells Kostov, decades of instinct later, that the job was never about assets **[M7 seed]**.
 - **He was deceived**; he is not innocent: he knew "loose hands" meant killing. The campaign never lets him or the player pretend otherwise.
 
 ## What he knows (binding knowledge boundary)
@@ -22,7 +22,7 @@
 - **V**: he does not attend the reckoning; he is already cooperating. Epilogue: charges, plea, years — the visible hand signs its own paperwork at last.
 
 ## Voice
-- Clipped, professional, no poetry. Counts exits when he enters rooms (a habit the player notices before anyone names it). Talks about 2009 in logistics language because the moral language would break him open.
+- Clipped, professional, no poetry. Counts exits when he enters rooms (a habit the player notices before anyone names it). Talks about 2011 in logistics language because the moral language would break him open.
 
 ## Continuity guards
 - He never meets Haru with weapons drawn after M7 (his cooperation is real, transactional, and boring — which is what makes it feel true).

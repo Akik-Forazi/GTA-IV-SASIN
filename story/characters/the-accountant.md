@@ -12,14 +12,14 @@
 ## What he actually did (writer-only spine) **[P-4.3, P-4.5]**
 - **Staged the massacre's pretext**: forged the letter of authority that deceived Jae-Ho; wrote Kostov's job ticket; positioned the liaison; falsified the after-action ("heirs unlocated, records believed destroyed") — the two lies that created the entire campaign.
 - **Kept Jae-Ho alive** as insurance against the day Baek tidies *him*.
-- **2019**: saw the trust notice before anyone; understood Baek's succession war had reached the ledger; and made the only move that keeps him alive past the war — **aim the son at the chairman**. The prints, the text, the call, the docks meet, the torn page: all one hand.
+- **2025**: saw the trust notice before anyone; understood Baek's succession war had reached the ledger; and made the only move that keeps him alive past the war — **aim the son at the chairman**. The prints, the text, the call, the docks meet, the torn page: all one hand.
 - **His rule of self**: he has never once touched the money. He touches only *records of* money. It is the superstition that keeps him honest to both sides — and it is the hook Min-ji pulls (M14): she offers him what Baek never would — a record of his own, sealed, read only when he is dead.
 
 ## Voice
 - Quiet, exact, faintly amused by professionalism wherever he finds it ("Your sister's memo structure is very good; I improved it twice"). Never threatens; states consequences. On the phone he is someone else; in person he is nobody — the most dangerous voice in the campaign is the mildest.
 
 ## Knowledge boundaries
-- Knows: everything about the 2009 staging; the ledger's contents summary; Baek's succession map; the trust's mechanics.
+- Knows: everything about the 2011 staging; the ledger's contents summary; Baek's succession map; the trust's mechanics.
 - Does **not** know: whether the trust has copies he hasn't seen (it does — the engine of M15), what Haru will do when offered control (nobody does), or that Min-ji has been assembling her package since M6 (his one fatal blind spot: he prices enemies, not *auditors*).
 
 ## Relationships

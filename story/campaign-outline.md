@@ -24,12 +24,12 @@
 - **Clue:** light-coffin sexton rumor (Mandu WITNESSED); Kostov name (apartment note); the two-circle detail (player-observable).
 - **Consequence:** watchers now know the son digs; apartment burned as a site.
 - **Transition:** Niko half-doubts Jae-Ho lives; "courier" leads to M3/M7.
-- **Fixes:** Mandu no longer narrates the conspiracy (7.3); Beneficiary unnamed (7.4); Roman cut from night cemetery scene; headstone 2009.
+- **Fixes:** Mandu no longer narrates the conspiracy (7.3); Beneficiary unnamed (7.4); Roman cut from night cemetery scene; headstone 2011.
 
 ### M3 — "Monitored"
 - **Objective:** surveillance confirmed; the distorted call (the Accountant, voice-changed; never names the Beneficiary — threatens Roman's depot to set terms). Three-route intel operation with **exclusive** yields and **exclusive** costs.
 - **Gameplay:** Route A lose-the-tail sequence (map the rotation, photograph plates); Route B trap-and-capture (containment fight, non-lethal option flagged); Route C Mandu's con (social-engineering minigame on the paymaster's courier).
-- **Clue (exclusive per route):** A → rotation map + plates → watchers' safehouse (M8 site). B → captured watcher + the phrase-set spoken live ("the account is ready…") → Niko's burn (first phrase echo of the 2009 text). C → the paymaster's shell name → M6 evidence thread, and Mandu's cover burned with the network.
+- **Clue (exclusive per route):** A → rotation map + plates → watchers' safehouse (M8 site). B → captured watcher + the phrase-set spoken live ("the account is ready…") → Niko's burn (first phrase echo of the 2011 text). C → the paymaster's shell name → M6 evidence thread, and Mandu's cover burned with the network.
 - **Consequence:** one exclusive lead + one exclusive cost logged; no route grants the others' intel (7.6 fix).
 - **Transition:** the caller's parting line books M4: "You didn't come to the water. I'll bring the water to you."
 - **Fixes:** caller ≠ Beneficiary (4.10); Niko recognizes *phrases*, not voice/face (Niko profile); Roman's danger established with agency framing.
@@ -46,7 +46,7 @@
 ## ACT II — FAMILY EMPIRE (M5–M8)
 
 ### M5 — "Blood and Paper"
-- **Objective:** Min-ji reunion; the doctrine war established; the 2009 expense note with both Tae-joon's and Niko's names (first document bridging father and protector).
+- **Objective:** Min-ji reunion; the doctrine war established; the 2011 expense note with both Tae-joon's and Niko's names (first document bridging father and protector).
 - **Gameplay:** corporate interior scenes; records-room walkthrough tutorial for M6's mechanics; one hostile audit encounter (guards, non-lethal).
 - **Clue:** expense note; Min-ji's filed trust notice (player sees it if attentive — fair-play for M15).
 - **Consequence:** sibling pact with conditions: no violence inside her perimeter; Roman/Mallorie safety as a line item that never gets cut.
@@ -59,7 +59,7 @@
 - **Transition:** pattern needs a mouth: the crew's phrase-set from M3 now matters → M7.
 
 ### M7 — "The Photographer" *(path-flavored by M3 choice)*
-- **Objective:** find the 2009 spotter whose insurance roll made the prints; land on Kostov's trade. Kostov talks (transactional, unnerved by "nobody said heirs").
+- **Objective:** find the 2011 spotter whose insurance roll made the prints; land on Kostov's trade. Kostov talks (transactional, unnerved by "nobody said heirs").
 - **Gameplay:** surveillance/drive work; an intimidation-then-talk sequence; skill checks flavored by M3 lead (A: plate map approach, B: captured-watcher leverage, C: shell-name pretext).
 - **Clue:** courier chain + the liaison's carelessness ("the client never asked for the payment back").
 - **Consequence:** Kostov flips quietly; network notices the leash slipping (heat +).
@@ -77,7 +77,7 @@
 ## ACT III — THE MAN WHO LIED (M9–M11)
 
 ### M9 — "The Light Coffin"
-- **Objective:** churchyard investigation: sexton's ledger, gravedigger's silence, the county morgue swap. Mandu's brother-seed surfaces (his 2009 loss touches Seorin's uncounted).
+- **Objective:** churchyard investigation: sexton's ledger, gravedigger's silence, the county morgue swap. Mandu's brother-seed surfaces (his 2011 loss touches Seorin's uncounted).
 - **Gameplay:** investigation chain (interviews, records, one tail), quiet character scenes; zero combat — the act's breath.
 - **Clue:** who helped Jae-Ho vanish (the swap's clean paperwork = a comptroller's signature style).
 - **Consequence:** Mandu's real stake declared; group's trust geometry shifts.
@@ -88,8 +88,8 @@
 - **Clue:** the forged letter's signature block; "I have the names" journal line finally paid off *specifically*.
 - **Consequence:** Jae-Ho's existence now known to the network (watchers confirm during the trap); his clock starts.
 
-### M11 — "Ten Years of Silence"
-- **Objective:** the rupture. Confronted with Jae-Ho's confession and Min-ji's bookkeeper deduction, Haru demands everything; Niko sets the burner phone on the table (battery still out) and hands over a decade of silence in one object. The Accountant's fabrication is *deduced*, not confessed. Act ends: the network repossesses Jae-Ho — the doomsday file called in.
+### M11 — "Fourteen Years of Silence"
+- **Objective:** the rupture. Confronted with Jae-Ho's confession and Min-ji's bookkeeper deduction, Haru demands everything; Niko sets the burner phone on the table (battery still out) and hands over fourteen years of silence in one object. The Accountant's fabrication is *deduced*, not confessed. Act ends: the network repossesses Jae-Ho — the doomsday file called in.
 - **Gameplay:** dialogue-dominant mission with one extraction attempt (fail-forward scripted — the repossession must land).
 - **Clue:** the burner's text ("ACCOUNT CLEARS FRIDAY. THEN THE BROOM.") → M12's clock.
 - **Consequence:** Haru–Niko rupture (unresolved into Act IV); Jae-Ho taken; group rebuilds around certainty-seeking instead of control.

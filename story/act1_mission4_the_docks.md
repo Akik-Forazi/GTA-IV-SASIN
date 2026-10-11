@@ -94,7 +94,7 @@ The torn page under the desk lamp: a Seorin-era payment entry, columns tight, a 
 ## Continuity restrictions (hard)
 - The voice NEVER names anyone. No "Beneficiary," no "Accountant," no "ledger owner."
 - The torn page shows a *payment entry*, not a name that resolves anything; the signature block is recognized only in M5 by the attorneys.
-- Niko recognizes the caller as the same voice from M3 — and nothing more. His knowledge reaches the *caller*, not the author's identity or any face from 2009; his distrust here is professional.
+- Niko recognizes the caller as the same voice from M3 — and nothing more. His knowledge reaches the *caller*, not the author's identity or any face from 2011; his distrust here is professional.
 - Mandu operates on tags: INFERRED for the stage-dressing read; BLUFF permitted in the meet banter only.
 - Kate: not referenced. Roman: present in setup logistics only (depot lockup for the night — his choice, protecting his people).
 - Haru's graze: left shoulder, coat only — consistent with his M2 ear wound rules (he bleeds; he is not invincible).

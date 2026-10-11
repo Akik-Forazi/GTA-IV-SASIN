@@ -1,10 +1,10 @@
 # Kim Haru / Ahsan — "SASIN"
 
-**Protagonist.** Status refs: canon-ledger 1.3–1.5, 1.13–1.15. Age 33 (b. 1986, Dhaka). Adopted 1994 by Kim Tae-joon.
+**Protagonist.** Status refs: canon-ledger 1.3–1.5, 1.13–1.15. Age 39 (b. 1986, Dhaka). Adopted 1994 by Kim Tae-joon.
 
 ## Player-facing definition
-- Founder of a legitimate marine-logistics firm built abroad after 2009; wealthy, precise, unglamorous about it. Arrives in LC in April 2019 carrying an anonymous photograph.
-- In the rooms his decade touched, he is **SASIN**: a quiet rumor with a body count — the man who arrives after the invoice does. The myth is regional, not omniscient. He has never touched the center of the conspiracy because he has never held a thread.
+- Founder of a legitimate marine-logistics firm built abroad after 2011; wealthy, precise, unglamorous about it. Arrives in LC in April 2025 carrying an anonymous photograph.
+- In the rooms his exile touched, he is **SASIN**: a quiet rumor with a body count — the man who arrives after the invoice does. The myth is regional, not omniscient. He has never touched the center of the conspiracy because he has never held a thread.
 - Combat baseline (design, not license): ~10x player health; enemies usually fall to one shot he fires. He is **not immortal** — he is hurt at least once per act, and force never solves records, reputation, or family.
 
 ## Voice
@@ -15,7 +15,7 @@
 **Confusing control with certainty.** Haru believes that if he stages every variable — routes, exits, countersurveillance — the outcome is guaranteed. The campaign systematically punishes stagecraft that mistakes itself for knowledge: the docks meet he "controls" is pre-controlled (M4); the parley he scripts is used against him (M13). What he must learn is the difference: **control is what you do; certainty is what you've earned.** The Reckoning works only when he stops needing the kill.
 
 ## Want / need
-- Want (stated): the chain of responsibility for March 9, 2009.
+- Want (stated): the chain of responsibility for March 9, 2011.
 - Need (unstated): to be a son who can hold his father's whole truth — including the compromise — without either worship or indictment. He cannot get that from a corpse; he gets it from Min-ji, Jae-Ho, and the ledger.
 
 ## Arc by act
@@ -27,7 +27,7 @@
 
 ## Relationships
 - **Min-ji**: the person whose method he most distrusts and most needs. Their act-end decisions (M6, M13) are the campaign's real love story: siblings choosing each other's terms.
-- **Niko**: the man who carried him out of the warehouse and then carried the "why" alone for ten years. M11 rupture; M16–17 accounting.
+- **Niko**: the man who carried him out of the warehouse and then carried the "why" alone for fourteen years. M11 rupture; M16–17 accounting.
 - **Roman**: family by adoption of circumstance; the vulnerability that teaches Haru protection is a *practice*, not a perimeter.
 - **Mandu**: the chaos variable Haru cannot stage — and therefore the only partner whose honesty is proven rather than planned.
 - **Jae-Ho**: the truth Haru owes and does not want: the man who saved them by his own four minutes of cowardice-then-courage.
