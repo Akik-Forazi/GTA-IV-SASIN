@@ -57,7 +57,7 @@ Companion documents: `canon-ledger.md` (status of every claim), `characters/` (b
 - Not mercy. Not plan. Jae-Ho's warning moved them to the exit; Niko's speed closed the distance. The network's after-action (staged by the Accountant) records the deaths as "exposure terminated, heirs unlocated, records believed destroyed." The Accountant falsified the last two clauses. Both the children's survival and the ledger's survival are **his** fabrications — his insurance policy against the night Baek decides an Accountant who knows too much is itself an exposure.
 
 ### B6. Jae-Ho's disappearance **[P-4.5]**
-- The Accountant cannot let Jae-Ho be buried in the same grave as the truth. He stages Jae-Ho's death: a body from the county morgue (ajohn Doe of similar build), a closed casket, a grieving-security-hero narrative the family attorneys accept because the alternative is asking questions they cannot afford.
+- The Accountant cannot let Jae-Ho be buried in the same grave as the truth. He stages Jae-Ho's death: a body from the county morgue (a John Doe of similar build), a closed casket, a grieving-security-hero narrative the family attorneys accept because the alternative is asking questions they cannot afford.
 - He then plants Jae-Ho in a long, quiet hiding: kept alive, kept silent, fed enough crumbs to feel safe, never enough to act. Officially to keep a witness "on ice." In truth, because a live Jae-Ho with a testimony is the Accountant's doomsday file against Baek.
 - The grave in the Bohan churchyard reads: **JAE-HO LEE — 2011 — HE DIED PROTECTING THE FAMILY.** Both a lie and, in a four-minute-late way, a verdict.
 
@@ -82,7 +82,7 @@ Companion documents: `canon-ledger.md` (status of every claim), `characters/` (b
 ### C3. The nudges — one sender, three touches **[P-4.9, P-4.10]**
 All of the following are sent or arranged by **the Accountant**. None come from the Beneficiary. None come from Jae-Ho (he is under watch and only half-aware any of it is happening).
 - **Print #1** (February 2025): from the spotter's insurance roll, a photograph of the massacre — the suited liaison visible at the warehouse door — mailed anonymously to Haru abroad, with a typed line: *"You were told an accident. It was a contract. Ask Niko Bellic who stood at the door."* **This is why Haru returns.**
-- **Print #2** (March 2025): a second print from the same roll, with a **different figure circled in grease pencil** (the crew's        driver/lieutenant), left at Jae-Ho's grave by the Accountant. Dual purpose: bait to see who visits (Haru, the network's watchers, both), and a message to Jae-Ho that the Accountant knows where to reach him.
+- **Print #2** (March 2025): a second print from the same roll, with a **different figure circled in grease pencil** (the crew's driver/lieutenant), left at Jae-Ho's grave by the Accountant. Dual purpose: bait to see who visits (Haru, the network's watchers, both), and a message to Jae-Ho that the Accountant knows where to reach him.
 - **The docks text** (arrival night, April 2025): unsigned SMS from a burner: **"THEY'RE WATCHING. MEET ME AT THE DOCKS. —A."** Haru does not go. He goes to Niko — the controllable choice. The Accountant recalibrates: the son is a controller; controllers need proof before contact.
 - **The distorted call** (Mission 3): the Accountant, voice-changed, warns Haru that he is watched — "not just by us" — and threatens the weakest node (Roman's taxi business) to set the terms of the game. He never names the Beneficiary. He is steering, not confessing.
 
